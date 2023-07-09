@@ -8,9 +8,9 @@ addresses = {
     }
 
 addressesGit = {
-    "kinepolis":    "https://raw.githubusercontent.com/145211/Cinema-City-Planner/main/screenings/kinepolis.json",
-    "plaza":        "https://raw.githubusercontent.com/145211/Cinema-City-Planner/main/screenings/plaza.json",
-    "wroclavia":    "https://raw.githubusercontent.com/145211/Cinema-City-Planner/main/screenings/wroclavia.json",
-    "korona":       "https://raw.githubusercontent.com/145211/Cinema-City-Planner/main/screenings/korona.json",
-    "mokotow":      "https://raw.githubusercontent.com/145211/Cinema-City-Planner/main/screenings/mokotow.json"
+    "kinepolis":    "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/kinepolis.json",
+    "plaza":        "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/plaza.json",
+    "wroclavia":    "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/wroclavia.json",
+    "korona":       "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/korona.json",
+    "mokotow":      "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/mokotow.json"
     }
