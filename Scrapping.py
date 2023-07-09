@@ -13,6 +13,7 @@ def scrape(addresses, showtimes, dates):
     for date in dates:
         for cinema in addresses.keys():
             specific_element = []
+            changed = False
             while not specific_element:
                 response = session.get(addresses[cinema] + "?at={}".format(date))
                 response.raise_for_status()
@@ -20,8 +21,11 @@ def scrape(addresses, showtimes, dates):
                 tag = "qb-movie-details"
                 soup = BeautifulSoup(response.html.html, "html.parser")
                 specific_element = soup.find_all(class_=tag)
+                changed = True
 
-            showtimes[cinema][str(date)] = specific_element
+            #todo check if empty days correct
+            if changed:
+                showtimes[cinema][str(date)] = specific_element
 
     return showtimes
 
@@ -84,7 +88,6 @@ def enlist(screenings, cinema):
             movie_num += 1
 
         cinemaDays[day] = moviesDay
-        print(moviesDay)
 
     # Save dictionary to a JSON file
     with open('screenings/{}.json'.format(cinema), 'w') as json_file:
