@@ -1,0 +1,90 @@
+
+* {
+    /*border: 1px solid #7c2929;*/
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #d57031;
+}
+
+body {
+    background: #222222;
+    color: #d57031;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.plot-img {
+    width: 100%;
+}
+
+.top-nav {
+    background-color: #1f1f1f;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.top-nav li {
+    display: inline-block;
+}
+
+.top-nav li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #d57031;
+}
+
+.top-nav li a:hover, button:hover, .dropdown1:hover, input[type="date"]:hover {
+    background-color: rgba(173, 173, 173, 0.5);
+}
+
+.dropdown1 {
+    font-size: 16px;
+    padding: 10px;
+    color: #d57031;
+    background-color: transparent;
+}
+
+.titlesChecklist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+
+input[type="date"] {
+    font-size: 16px;
+    padding: 10px;
+    color: #d57031;
+    background-color: transparent;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    color: #d57031;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+button, input[type="date"], .top-nav li, dropdown {
+    border: 1px solid #646464;
+    box-shadow: none;
+}

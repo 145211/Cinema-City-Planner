@@ -1,0 +1,992 @@
+{
+    "2023-07-09": [
+        {
+            "title": "Asteroid City",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:10"
+                    ],
+                    "end": [
+                        "22:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bez urazy",
+            "duration": 103,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:30"
+                    ],
+                    "end": [
+                        "18:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Flash",
+            "duration": 143,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20"
+                    ],
+                    "end": [
+                        "15:43"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "IMAX2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:05"
+                    ],
+                    "end": [
+                        "15:39"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:20",
+                        "16:40",
+                        "20:00"
+                    ],
+                    "end": [
+                        "16:54",
+                        "19:14",
+                        "22:34"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "15:20",
+                        "17:30",
+                        "20:40"
+                    ],
+                    "end": [
+                        "17:54",
+                        "20:04",
+                        "23:14"
+                    ]
+                },
+                {
+                    "type": "IMAX2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:10",
+                        "19:15",
+                        "22:20"
+                    ],
+                    "end": [
+                        "18:44",
+                        "21:49",
+                        "24:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ma\u0142a syrenka",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40"
+                    ],
+                    "end": [
+                        "15:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:30",
+                        "17:00",
+                        "18:30",
+                        "18:50"
+                    ],
+                    "end": [
+                        "16:20",
+                        "18:50",
+                        "20:20",
+                        "20:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20",
+                        "15:40",
+                        "18:10"
+                    ],
+                    "end": [
+                        "15:05",
+                        "17:25",
+                        "19:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:30",
+                        "20:30"
+                    ],
+                    "end": [
+                        "22:13",
+                        "23:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miss Kraken. Ruby Gillman",
+            "duration": 90,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:10"
+                    ],
+                    "end": [
+                        "17:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Naznaczony: Czerwone drzwi",
+            "duration": 107,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "14:40",
+                        "17:00",
+                        "19:30",
+                        "21:50"
+                    ],
+                    "end": [
+                        "16:27",
+                        "18:47",
+                        "21:17",
+                        "23:37"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nostalgia",
+            "duration": 119,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "IT (NAP PL)",
+                    "start": [
+                        "20:50"
+                    ],
+                    "end": [
+                        "22:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Rysiek superwr\u00f3bel",
+            "duration": 84,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:00"
+                    ],
+                    "end": [
+                        "15:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Spider-Man: Poprzez multiwersum",
+            "duration": 136,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "15:10",
+                        "18:00"
+                    ],
+                    "end": [
+                        "17:26",
+                        "20:16"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:15"
+                    ],
+                    "end": [
+                        "14:47"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Szybcy i w\u015bciekli 10",
+            "duration": 141,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:00"
+                    ],
+                    "end": [
+                        "23:21"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transformers: Przebudzenie bestii",
+            "duration": 126,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "18:20"
+                    ],
+                    "end": [
+                        "20:26"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-07-10": [
+        {
+            "title": "Asteroid City",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:10"
+                    ],
+                    "end": [
+                        "22:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bez urazy",
+            "duration": 103,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:30"
+                    ],
+                    "end": [
+                        "18:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Flash",
+            "duration": 143,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20"
+                    ],
+                    "end": [
+                        "15:43"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "IMAX2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:05"
+                    ],
+                    "end": [
+                        "15:39"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:20",
+                        "16:40",
+                        "20:00"
+                    ],
+                    "end": [
+                        "16:54",
+                        "19:14",
+                        "22:34"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "15:20",
+                        "17:30",
+                        "20:40"
+                    ],
+                    "end": [
+                        "17:54",
+                        "20:04",
+                        "23:14"
+                    ]
+                },
+                {
+                    "type": "IMAX2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:10",
+                        "19:15",
+                        "22:20"
+                    ],
+                    "end": [
+                        "18:44",
+                        "21:49",
+                        "24:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ma\u0142a syrenka",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40"
+                    ],
+                    "end": [
+                        "15:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:30",
+                        "17:00",
+                        "18:30",
+                        "18:50"
+                    ],
+                    "end": [
+                        "16:20",
+                        "18:50",
+                        "20:20",
+                        "20:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20",
+                        "15:40",
+                        "18:10"
+                    ],
+                    "end": [
+                        "15:05",
+                        "17:25",
+                        "19:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:30",
+                        "20:30"
+                    ],
+                    "end": [
+                        "22:13",
+                        "23:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miss Kraken. Ruby Gillman",
+            "duration": 90,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:10"
+                    ],
+                    "end": [
+                        "17:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Naznaczony: Czerwone drzwi",
+            "duration": 107,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "14:40",
+                        "17:00",
+                        "19:30",
+                        "21:50"
+                    ],
+                    "end": [
+                        "16:27",
+                        "18:47",
+                        "21:17",
+                        "23:37"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nostalgia",
+            "duration": 119,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "IT (NAP PL)",
+                    "start": [
+                        "20:50"
+                    ],
+                    "end": [
+                        "22:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Rysiek superwr\u00f3bel",
+            "duration": 84,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:00"
+                    ],
+                    "end": [
+                        "15:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Spider-Man: Poprzez multiwersum",
+            "duration": 136,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "15:10",
+                        "18:00"
+                    ],
+                    "end": [
+                        "17:26",
+                        "20:16"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:15"
+                    ],
+                    "end": [
+                        "14:47"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Szybcy i w\u015bciekli 10",
+            "duration": 141,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:00"
+                    ],
+                    "end": [
+                        "23:21"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transformers: Przebudzenie bestii",
+            "duration": 126,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "18:20"
+                    ],
+                    "end": [
+                        "20:26"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-07-11": [
+        {
+            "title": "Asteroid City",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:10"
+                    ],
+                    "end": [
+                        "22:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bez urazy",
+            "duration": 103,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:30"
+                    ],
+                    "end": [
+                        "18:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Flash",
+            "duration": 143,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20"
+                    ],
+                    "end": [
+                        "15:43"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "IMAX2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:05"
+                    ],
+                    "end": [
+                        "15:39"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:20",
+                        "16:40",
+                        "20:00"
+                    ],
+                    "end": [
+                        "16:54",
+                        "19:14",
+                        "22:34"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "15:20",
+                        "17:30",
+                        "20:40"
+                    ],
+                    "end": [
+                        "17:54",
+                        "20:04",
+                        "23:14"
+                    ]
+                },
+                {
+                    "type": "IMAX2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:10",
+                        "19:15",
+                        "22:20"
+                    ],
+                    "end": [
+                        "18:44",
+                        "21:49",
+                        "24:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ma\u0142a syrenka",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40"
+                    ],
+                    "end": [
+                        "15:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:30",
+                        "17:00",
+                        "18:30",
+                        "18:50"
+                    ],
+                    "end": [
+                        "16:20",
+                        "18:50",
+                        "20:20",
+                        "20:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:20",
+                        "15:40",
+                        "18:10"
+                    ],
+                    "end": [
+                        "15:05",
+                        "17:25",
+                        "19:55"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:30",
+                        "20:30"
+                    ],
+                    "end": [
+                        "22:13",
+                        "23:13"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miss Kraken. Ruby Gillman",
+            "duration": 90,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:10"
+                    ],
+                    "end": [
+                        "17:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Naznaczony: Czerwone drzwi",
+            "duration": 107,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "14:40",
+                        "17:00",
+                        "19:30",
+                        "21:50"
+                    ],
+                    "end": [
+                        "16:27",
+                        "18:47",
+                        "21:17",
+                        "23:37"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nostalgia",
+            "duration": 119,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "IT (NAP PL)",
+                    "start": [
+                        "20:50"
+                    ],
+                    "end": [
+                        "22:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Rysiek superwr\u00f3bel",
+            "duration": 84,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "14:00"
+                    ],
+                    "end": [
+                        "15:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Spider-Man: Poprzez multiwersum",
+            "duration": 136,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "15:10",
+                        "18:00"
+                    ],
+                    "end": [
+                        "17:26",
+                        "20:16"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:15"
+                    ],
+                    "end": [
+                        "14:47"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Szybcy i w\u015bciekli 10",
+            "duration": 141,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:00"
+                    ],
+                    "end": [
+                        "23:21"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Transformers: Przebudzenie bestii",
+            "duration": 126,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "18:20"
+                    ],
+                    "end": [
+                        "20:26"
+                    ]
+                }
+            ]
+        }
+    ]
+}

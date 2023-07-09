@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cinema City Grabber</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='templates/styles.css') }}">
+</head>
+<body>
+<!-- Include the navbar HTML -->
+{% include 'navbar.html' %}
+
+<!-- Content specific to each page will go here -->
+{% block content %} {% endblock %}
+
+<!-- Add your JavaScript and other common body elements here -->
+</body>
+</html>

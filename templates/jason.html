@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+{{ plot_div | safe }}
+
+<ul class="titlesChecklist">
+    {% for item in titles %}
+    <li>
+        <input type="checkbox" id="{{ loop.index }}" name="checkboxes" value="{{ item }}">
+        <label for="{{ loop.index }}">{{ item }}</label>
+    </li>
+    {% endfor %}
+</ul>
+
+<div class="container">
+    <input type="hidden" id="checkedIndexes" name="checkedIndexes" value="">
+    <button onclick="sendCheckedIndexes()">Select</button>
+</div>
+
+<script>
+    function sendCheckedIndexes() {
+        var checkboxes = document.getElementsByName('checkboxes');
+        var checkedIndexes = [];
+        var url = window.location.href;
+
+        for (var i = 0; i < checkboxes.length; i++) {
+            if (checkboxes[i].checked) {
+                checkedIndexes.push(i);
+            }
+        }
+
+        const chosenIndex = url.indexOf('&chosen');
+        if (chosenIndex !== -1) {
+            url = url.slice(0, chosenIndex);
+        }
+
+        if (checkedIndexes.length < 1) {
+            window.location.href = url;
+            return 0;
+        }
+
+        url += '&chosen=' + generateHexChecklist(checkedIndexes);
+        window.location.href = url;
+    }
+
+    function generateHexChecklist(selectedItems) {
+        const maxIndex = Math.max(...selectedItems);
+        const binaryChecklist = Array(maxIndex + 1).fill(0);
+
+        selectedItems.forEach(index => {
+            binaryChecklist[index] = 1;
+        });
+
+        const binaryString = binaryChecklist.join('');
+
+        const decimalValue = parseInt(binaryString.split('').reverse().join(''), 2);
+        const hexCode = decimalValue.toString(16);
+
+        return hexCode;
+    }
+</script>
+
+{% endblock %}
+
+
+
