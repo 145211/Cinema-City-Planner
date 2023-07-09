@@ -10,21 +10,19 @@ import MatplotCCG
 
 def scrape(addresses, showtimes, dates):
     session = HTMLSession()
-#TODO only scrapping first day
     for date in dates:
-        print(date)
         for cinema in addresses.keys():
             specific_element = []
             while not specific_element:
-                response = session.get(addresses[cinema] + "?{}".format(date))
+                response = session.get(addresses[cinema] + "?at={}".format(date))
                 response.raise_for_status()
                 response.html.render()
-                # print(day, response.html.html)
                 tag = "qb-movie-details"
                 soup = BeautifulSoup(response.html.html, "html.parser")
                 specific_element = soup.find_all(class_=tag)
 
             showtimes[cinema][str(date)] = specific_element
+
     return showtimes
 
 
@@ -101,7 +99,7 @@ if __name__ == "__main__":
     dates = []
     showtimes = {key: {} for key in addresses}
 
-    for days in range(3):
+    for days in range(21):
         day = date.today() + timedelta(days=days)
         dates.append(day)
 
