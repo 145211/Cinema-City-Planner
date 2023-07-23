@@ -14,3 +14,4 @@ addressesGit = {
     "korona":       "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/korona.json",
     "mokotow":      "https://raw.githubusercontent.com/145211/Cinema-City-Planner/master/screenings/mokotow.json"
     }
+

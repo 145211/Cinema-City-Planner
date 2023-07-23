@@ -1,532 +1,4 @@
 {
-    "2023-07-21": [
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:50",
-                        "13:30",
-                        "16:10",
-                        "18:50"
-                    ],
-                    "end": [
-                        "12:55",
-                        "15:35",
-                        "18:15",
-                        "20:55"
-                    ]
-                },
-                {
-                    "type": "2DDolby Atmos",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:30",
-                        "15:10",
-                        "17:50",
-                        "20:30"
-                    ],
-                    "end": [
-                        "14:35",
-                        "17:15",
-                        "19:55",
-                        "22:35"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:10",
-                        "16:50",
-                        "19:30",
-                        "21:30"
-                    ],
-                    "end": [
-                        "16:15",
-                        "18:55",
-                        "21:35",
-                        "23:35"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Indiana Jones i artefakt przeznaczenia",
-            "duration": 154,
-            "screenings": [
-                {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "18:40"
-                    ],
-                    "end": [
-                        "21:14"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "21:40"
-                    ],
-                    "end": [
-                        "24:14"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Ma\u0142a syrenka",
-            "duration": 135,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:20"
-                    ],
-                    "end": [
-                        "13:35"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i stra\u017cnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10"
-                    ],
-                    "end": [
-                        "11:49"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
-            "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30",
-                        "13:50",
-                        "16:20"
-                    ],
-                    "end": [
-                        "13:20",
-                        "15:40",
-                        "18:10"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miraculous: Biedronka i Czarny Kot",
-            "duration": 105,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "11:20",
-                        "12:40",
-                        "15:10"
-                    ],
-                    "end": [
-                        "11:55",
-                        "13:05",
-                        "14:25",
-                        "16:55"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mission: Impossible - Dead Reckoning Part One",
-            "duration": 163,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "10:50",
-                        "13:40",
-                        "17:30",
-                        "20:50"
-                    ],
-                    "end": [
-                        "13:33",
-                        "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
-                        "17:23",
-                        "20:43",
-                        "24:03"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miss Kraken. Ruby Gillman",
-            "duration": 90,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:30"
-                    ],
-                    "end": [
-                        "12:00"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "20:40",
-                        "22:10"
-                    ],
-                    "end": [
-                        "22:27",
-                        "23:57"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:20",
-                        "14:20",
-                        "16:00",
-                        "17:00",
-                        "18:00",
-                        "19:40",
-                        "21:40"
-                    ],
-                    "end": [
-                        "15:20",
-                        "17:20",
-                        "19:00",
-                        "20:00",
-                        "21:00",
-                        "22:40",
-                        "24:40"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-07-22": [
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:50",
-                        "13:30",
-                        "16:10",
-                        "18:50"
-                    ],
-                    "end": [
-                        "12:55",
-                        "15:35",
-                        "18:15",
-                        "20:55"
-                    ]
-                },
-                {
-                    "type": "2DDolby Atmos",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:30",
-                        "15:10",
-                        "17:50",
-                        "20:30"
-                    ],
-                    "end": [
-                        "14:35",
-                        "17:15",
-                        "19:55",
-                        "22:35"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:10",
-                        "16:50",
-                        "19:30",
-                        "21:30"
-                    ],
-                    "end": [
-                        "16:15",
-                        "18:55",
-                        "21:35",
-                        "23:35"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Indiana Jones i artefakt przeznaczenia",
-            "duration": 154,
-            "screenings": [
-                {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "18:40"
-                    ],
-                    "end": [
-                        "21:14"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "21:40"
-                    ],
-                    "end": [
-                        "24:14"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Ma\u0142a syrenka",
-            "duration": 135,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:20"
-                    ],
-                    "end": [
-                        "13:35"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i stra\u017cnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10"
-                    ],
-                    "end": [
-                        "11:49"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
-            "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30",
-                        "13:50",
-                        "16:20"
-                    ],
-                    "end": [
-                        "13:20",
-                        "15:40",
-                        "18:10"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miraculous: Biedronka i Czarny Kot",
-            "duration": 105,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "11:20",
-                        "12:40",
-                        "15:10"
-                    ],
-                    "end": [
-                        "11:55",
-                        "13:05",
-                        "14:25",
-                        "16:55"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mission: Impossible - Dead Reckoning Part One",
-            "duration": 163,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "10:50",
-                        "13:40",
-                        "17:30",
-                        "20:50"
-                    ],
-                    "end": [
-                        "13:33",
-                        "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
-                        "17:23",
-                        "20:43",
-                        "24:03"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miss Kraken. Ruby Gillman",
-            "duration": 90,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:30"
-                    ],
-                    "end": [
-                        "12:00"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "20:40",
-                        "22:10"
-                    ],
-                    "end": [
-                        "22:27",
-                        "23:57"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:20",
-                        "14:20",
-                        "16:00",
-                        "17:00",
-                        "18:00",
-                        "19:40",
-                        "21:40"
-                    ],
-                    "end": [
-                        "15:20",
-                        "17:20",
-                        "19:00",
-                        "20:00",
-                        "21:00",
-                        "22:40",
-                        "24:40"
-                    ]
-                }
-            ]
-        }
-    ],
     "2023-07-23": [
         {
             "title": "Barbie",
@@ -534,50 +6,24 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:50",
-                        "13:30",
-                        "16:10",
-                        "18:50"
-                    ],
-                    "end": [
-                        "12:55",
-                        "15:35",
-                        "18:15",
-                        "20:55"
-                    ]
-                },
-                {
-                    "type": "2DDolby Atmos",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "12:30",
-                        "15:10",
-                        "17:50",
-                        "20:30"
-                    ],
-                    "end": [
-                        "14:35",
-                        "17:15",
-                        "19:55",
-                        "22:35"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:10",
-                        "16:50",
                         "19:30",
                         "21:30"
                     ],
                     "end": [
-                        "16:15",
-                        "18:55",
                         "21:35",
                         "23:35"
+                    ]
+                },
+                {
+                    "type": "2D Dolby Atmos",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:30"
+                    ],
+                    "end": [
+                        "22:35"
                     ]
                 }
             ]
@@ -586,26 +32,6 @@
             "title": "Indiana Jones i artefakt przeznaczenia",
             "duration": 154,
             "screenings": [
-                {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "18:40"
-                    ],
-                    "end": [
-                        "21:14"
-                    ]
-                },
                 {
                     "type": "2D",
                     "language": "EN (NAP PL)",
@@ -619,78 +45,24 @@
             ]
         },
         {
-            "title": "Ma\u0142a syrenka",
+            "title": "Mała syrenka",
             "duration": 135,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:20"
-                    ],
-                    "end": [
-                        "13:35"
-                    ]
-                }
-            ]
+            "screenings": []
         },
         {
-            "title": "Mavka i stra\u017cnicy lasu",
+            "title": "Mavka i strażnicy lasu",
             "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10"
-                    ],
-                    "end": [
-                        "11:49"
-                    ]
-                }
-            ]
+            "screenings": []
         },
         {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "title": "Między nami żywiołami",
             "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30",
-                        "13:50",
-                        "16:20"
-                    ],
-                    "end": [
-                        "13:20",
-                        "15:40",
-                        "18:10"
-                    ]
-                }
-            ]
+            "screenings": []
         },
         {
             "title": "Miraculous: Biedronka i Czarny Kot",
             "duration": 105,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "11:20",
-                        "12:40",
-                        "15:10"
-                    ],
-                    "end": [
-                        "11:55",
-                        "13:05",
-                        "14:25",
-                        "16:55"
-                    ]
-                }
-            ]
+            "screenings": []
         },
         {
             "title": "Mission: Impossible - Dead Reckoning Part One",
@@ -700,29 +72,11 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "10:50",
-                        "13:40",
-                        "17:30",
-                        "20:50"
-                    ],
-                    "end": [
-                        "13:33",
-                        "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
+                        "20:50",
                         "21:20"
                     ],
                     "end": [
-                        "17:23",
-                        "20:43",
+                        "23:33",
                         "24:03"
                     ]
                 }
@@ -731,18 +85,7 @@
         {
             "title": "Miss Kraken. Ruby Gillman",
             "duration": 90,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:30"
-                    ],
-                    "end": [
-                        "12:00"
-                    ]
-                }
-            ]
+            "screenings": []
         },
         {
             "title": "Naznaczony: Czerwone drzwi",
@@ -770,20 +113,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "12:20",
-                        "14:20",
-                        "16:00",
-                        "17:00",
-                        "18:00",
                         "19:40",
                         "21:40"
                     ],
                     "end": [
-                        "15:20",
-                        "17:20",
-                        "19:00",
-                        "20:00",
-                        "21:00",
                         "22:40",
                         "24:40"
                     ]
@@ -813,7 +146,7 @@
                     ]
                 },
                 {
-                    "type": "2DDolby Atmos",
+                    "type": "2D Dolby Atmos",
                     "language": "EN (NAP PL)",
                     "start": [
                         "12:30",
@@ -851,22 +184,14 @@
             "duration": 154,
             "screenings": [
                 {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
+                        "11:30",
                         "18:40"
                     ],
                     "end": [
+                        "14:04",
                         "21:14"
                     ]
                 },
@@ -883,12 +208,12 @@
             ]
         },
         {
-            "title": "Ma\u0142a syrenka",
+            "title": "Mała syrenka",
             "duration": 135,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "EN (NAP PL)",
+                    "language": "(DUB PL)",
                     "start": [
                         "11:20"
                     ],
@@ -899,7 +224,7 @@
             ]
         },
         {
-            "title": "Mavka i stra\u017cnicy lasu",
+            "title": "Mavka i strażnicy lasu",
             "duration": 99,
             "screenings": [
                 {
@@ -915,7 +240,7 @@
             ]
         },
         {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "title": "Między nami żywiołami",
             "duration": 110,
             "screenings": [
                 {
@@ -966,27 +291,19 @@
                     "start": [
                         "10:50",
                         "13:40",
+                        "14:40",
                         "17:30",
-                        "20:50"
+                        "18:00",
+                        "20:50",
+                        "21:20"
                     ],
                     "end": [
                         "13:33",
                         "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
                         "17:23",
+                        "20:13",
                         "20:43",
+                        "23:33",
                         "24:03"
                     ]
                 }
@@ -1077,7 +394,7 @@
                     ]
                 },
                 {
-                    "type": "2DDolby Atmos",
+                    "type": "2D Dolby Atmos",
                     "language": "EN (NAP PL)",
                     "start": [
                         "12:30",
@@ -1115,22 +432,14 @@
             "duration": 154,
             "screenings": [
                 {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
+                        "11:30",
                         "18:40"
                     ],
                     "end": [
+                        "14:04",
                         "21:14"
                     ]
                 },
@@ -1147,7 +456,7 @@
             ]
         },
         {
-            "title": "Ma\u0142a syrenka",
+            "title": "Mała syrenka",
             "duration": 135,
             "screenings": [
                 {
@@ -1163,7 +472,7 @@
             ]
         },
         {
-            "title": "Mavka i stra\u017cnicy lasu",
+            "title": "Mavka i strażnicy lasu",
             "duration": 99,
             "screenings": [
                 {
@@ -1179,7 +488,7 @@
             ]
         },
         {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "title": "Między nami żywiołami",
             "duration": 110,
             "screenings": [
                 {
@@ -1230,27 +539,19 @@
                     "start": [
                         "10:50",
                         "13:40",
+                        "14:40",
                         "17:30",
-                        "20:50"
+                        "18:00",
+                        "20:50",
+                        "21:20"
                     ],
                     "end": [
                         "13:33",
                         "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
                         "17:23",
+                        "20:13",
                         "20:43",
+                        "23:33",
                         "24:03"
                     ]
                 }
@@ -1341,7 +642,7 @@
                     ]
                 },
                 {
-                    "type": "2DDolby Atmos",
+                    "type": "2D Dolby Atmos",
                     "language": "EN (NAP PL)",
                     "start": [
                         "12:30",
@@ -1379,22 +680,14 @@
             "duration": 154,
             "screenings": [
                 {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
+                        "11:30",
                         "18:40"
                     ],
                     "end": [
+                        "14:04",
                         "21:14"
                     ]
                 },
@@ -1411,7 +704,7 @@
             ]
         },
         {
-            "title": "Ma\u0142a syrenka",
+            "title": "Mała syrenka",
             "duration": 135,
             "screenings": [
                 {
@@ -1427,7 +720,7 @@
             ]
         },
         {
-            "title": "Mavka i stra\u017cnicy lasu",
+            "title": "Mavka i strażnicy lasu",
             "duration": 99,
             "screenings": [
                 {
@@ -1443,7 +736,7 @@
             ]
         },
         {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "title": "Między nami żywiołami",
             "duration": 110,
             "screenings": [
                 {
@@ -1494,27 +787,19 @@
                     "start": [
                         "10:50",
                         "13:40",
+                        "14:40",
                         "17:30",
-                        "20:50"
+                        "18:00",
+                        "20:50",
+                        "21:20"
                     ],
                     "end": [
                         "13:33",
                         "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
                         "17:23",
+                        "20:13",
                         "20:43",
+                        "23:33",
                         "24:03"
                     ]
                 }
@@ -1605,7 +890,7 @@
                     ]
                 },
                 {
-                    "type": "2DDolby Atmos",
+                    "type": "2D Dolby Atmos",
                     "language": "EN (NAP PL)",
                     "start": [
                         "12:30",
@@ -1643,22 +928,14 @@
             "duration": 154,
             "screenings": [
                 {
-                    "type": "2DScreenX",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:30"
-                    ],
-                    "end": [
-                        "14:04"
-                    ]
-                },
-                {
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
+                        "11:30",
                         "18:40"
                     ],
                     "end": [
+                        "14:04",
                         "21:14"
                     ]
                 },
@@ -1675,7 +952,7 @@
             ]
         },
         {
-            "title": "Ma\u0142a syrenka",
+            "title": "Mała syrenka",
             "duration": 135,
             "screenings": [
                 {
@@ -1691,7 +968,7 @@
             ]
         },
         {
-            "title": "Mavka i stra\u017cnicy lasu",
+            "title": "Mavka i strażnicy lasu",
             "duration": 99,
             "screenings": [
                 {
@@ -1707,7 +984,7 @@
             ]
         },
         {
-            "title": "Mi\u0119dzy nami \u017cywio\u0142ami",
+            "title": "Między nami żywiołami",
             "duration": 110,
             "screenings": [
                 {
@@ -1758,27 +1035,19 @@
                     "start": [
                         "10:50",
                         "13:40",
+                        "14:40",
                         "17:30",
-                        "20:50"
+                        "18:00",
+                        "20:50",
+                        "21:20"
                     ],
                     "end": [
                         "13:33",
                         "16:23",
-                        "20:13",
-                        "23:33"
-                    ]
-                },
-                {
-                    "type": "2DScreenX",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:40",
-                        "18:00",
-                        "21:20"
-                    ],
-                    "end": [
                         "17:23",
+                        "20:13",
                         "20:43",
+                        "23:33",
                         "24:03"
                     ]
                 }
@@ -1846,5 +1115,21 @@
                 }
             ]
         }
-    ]
+    ],
+    "2023-07-28": [],
+    "2023-07-29": [],
+    "2023-07-30": [],
+    "2023-07-31": [],
+    "2023-08-01": [],
+    "2023-08-02": [],
+    "2023-08-03": [],
+    "2023-08-04": [],
+    "2023-08-05": [],
+    "2023-08-06": [],
+    "2023-08-07": [],
+    "2023-08-08": [],
+    "2023-08-09": [],
+    "2023-08-10": [],
+    "2023-08-11": [],
+    "2023-08-12": []
 }

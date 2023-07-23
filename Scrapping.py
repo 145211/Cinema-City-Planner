@@ -10,22 +10,20 @@ import MatplotCCG
 
 def scrape(addresses, showtimes, dates):
     session = HTMLSession()
+    session.max_redirects = 0
     for date in dates:
         for cinema in addresses.keys():
-            specific_element = []
-            changed = False
-            while not specific_element:
-                response = session.get(addresses[cinema] + "?at={}".format(date))
-                response.raise_for_status()
-                response.html.render()
-                tag = "qb-movie-details"
-                soup = BeautifulSoup(response.html.html, "html.parser")
-                specific_element = soup.find_all(class_=tag)
-                changed = True
+            response = session.get(addresses[cinema] + "?at={}".format(date))
+            response.raise_for_status()
+            response.html.render()
+            tag = "qb-movie-details"
+            error = "alert alert-warning"
+            soup = BeautifulSoup(response.html.html, "html.parser")
 
-            #todo check if empty days correct
-            if changed:
-                showtimes[cinema][str(date)] = specific_element
+            if soup.find_all(class_=error):
+                continue
+            else:
+                showtimes[cinema][str(date)] = soup.find_all(class_=tag)
 
     return showtimes
 
@@ -36,6 +34,8 @@ def enlist(screenings, cinema):
     for day in screenings[cinema]:
         moviesDay = []
         movie_num = 0
+
+        changed = False
         for item in screenings[cinema][day]:
             tmp_screenings = []
 
@@ -87,22 +87,24 @@ def enlist(screenings, cinema):
 
             movie_num += 1
 
+            changed = True
+
         cinemaDays[day] = moviesDay
 
     # Save dictionary to a JSON file
-    with open('screenings/{}.json'.format(cinema), 'w') as json_file:
-        json.dump(cinemaDays, json_file, indent=4)
+    with open('screenings/{}.json'.format(cinema), 'w', encoding='utf-8') as json_file:
+        json.dump(cinemaDays, json_file, indent=4, ensure_ascii=False)
 
     return cinemaDays
 
 
-if __name__ == "__main__":
+def scrapping():
     addresses = Addresses.addresses
 
     dates = []
     showtimes = {key: {} for key in addresses}
 
-    for days in range(21):
+    for days in range(14):
         day = date.today() + timedelta(days=days)
         dates.append(day)
 
@@ -110,3 +112,7 @@ if __name__ == "__main__":
 
     for x in addresses.keys():
         test = enlist(showtimes, x)
+
+
+if __name__ == "__main__":
+    scrapping()
