@@ -1,0 +1,142 @@
+{
+    "bielsko-biala": {
+        "id": "1088",
+        "display": "Bielsko-Biała"
+    },
+    "bydgoszcz": {
+        "id": "1086",
+        "display": "Bydgoszcz"
+    },
+    "bytom": {
+        "id": "1092",
+        "display": "Bytom"
+    },
+    "cieszyn": {
+        "id": "1098",
+        "display": "Cieszyn"
+    },
+    "jurajska": {
+        "id": "1089",
+        "display": "Częstochowa - Galeria Jurajska"
+    },
+    "wolnosc": {
+        "id": "1075",
+        "display": "Częstochowa - Wolność"
+    },
+    "elblag": {
+        "id": "1099",
+        "display": "Elbląg"
+    },
+    "gliwice": {
+        "id": "1085",
+        "display": "Gliwice"
+    },
+    "punkt44": {
+        "id": "1065",
+        "display": "Katowice - Punkt 44"
+    },
+    "silesia": {
+        "id": "1079",
+        "display": "Katowice - Silesia"
+    },
+    "bonarka": {
+        "id": "1090",
+        "display": "Kraków - Bonarka"
+    },
+    "kazimierz": {
+        "id": "1076",
+        "display": "Kraków - Galeria Kazimierz"
+    },
+    "zakopianka": {
+        "id": "1064",
+        "display": "Kraków - Zakopianka"
+    },
+    "felicity": {
+        "id": "1094",
+        "display": "Lublin - Felicity"
+    },
+    "lublinplaza": {
+        "id": "1084",
+        "display": "Lublin - Plaza"
+    },
+    "manufaktura": {
+        "id": "1080",
+        "display": "Łódź Manufaktura"
+    },
+    "kinepolis": {
+        "id": "1081",
+        "display": "Poznań - Kinepolis"
+    },
+    "poznanplaza": {
+        "id": "1078",
+        "display": "Poznań - Plaza"
+    },
+    "rudaslaska": {
+        "id": "1062",
+        "display": "Ruda Śląska"
+    },
+    "rybnik": {
+        "id": "1082",
+        "display": "Rybnik"
+    },
+    "sosnowiec": {
+        "id": "1083",
+        "display": "Sosnowiec"
+    },
+    "starogard": {
+        "id": "1095",
+        "display": "Starogard Gdański"
+    },
+    "czerwonadroga": {
+        "id": "1077",
+        "display": "Toruń - Czerwona Droga"
+    },
+    "torunplaza": {
+        "id": "1093",
+        "display": "Toruń - Plaza"
+    },
+    "walbrzych": {
+        "id": "1091",
+        "display": "Wałbrzych"
+    },
+    "arkadia": {
+        "id": "1074",
+        "display": "Warszawa -  Arkadia"
+    },
+    "bemowo": {
+        "id": "1061",
+        "display": "Warszawa - Bemowo"
+    },
+    "galeriapolnocna": {
+        "id": "1096",
+        "display": "Warszawa - Białołęka Galeria Północna"
+    },
+    "mokotow": {
+        "id": "1070",
+        "display": "Warszawa - Galeria Mokotów"
+    },
+    "janki": {
+        "id": "1069",
+        "display": "Warszawa - Janki"
+    },
+    "promenada": {
+        "id": "1068",
+        "display": "Warszawa - Promenada"
+    },
+    "sadyba": {
+        "id": "1060",
+        "display": "Warszawa - Sadyba"
+    },
+    "korona": {
+        "id": "1067",
+        "display": "Wrocław - Korona"
+    },
+    "wroclavia": {
+        "id": "1097",
+        "display": "Wrocław - Wroclavia"
+    },
+    "zielonagora": {
+        "id": "1087",
+        "display": "Zielona Góra"
+    }
+}
