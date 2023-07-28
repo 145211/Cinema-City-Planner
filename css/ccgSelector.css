@@ -1,0 +1,12 @@
+
+#selector-container {
+    grid-area: 1 / 2 / 1 / 2;
+}
+
+#main-div-selector {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}

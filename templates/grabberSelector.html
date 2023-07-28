@@ -2,35 +2,41 @@
 
 {% block content %}
 
-<div class="container">
+<div id="main-div-selector" class="main-div">
 
-    <h1>Choose cinema</h1>
+    <div class="container" id="selector-container">
 
-    <select id="dropdown1" class="dropdown1">
-        <option value="kinepolis">Kinepolis</option>
-        <option value="plaza">Plaza</option>
-        <option value="wroclavia">Wroclavia</option>
-        <option value="korona">Korona</option>
-        <option value="mokotow">Mokotów</option>
-    </select>
+        <div class="container-header">
+            Choose cinema and date
+        </div>
 
-    <h1>Choose date</h1>
+        <div class="container-body">
 
-    <form>
-        <input type="date" id="date" name="date">
-    </form>
+            <select id="cinema-selector">
+                {% for group, inner_dict in cinemas.items() %}
+                <option value="{{ group }}">{{ inner_dict['display'] }}</option>
+                {% endfor %}
+            </select>
 
-    <button onclick="goToNewAddress()">Go</button>
+            <form id="dateinput1" class="dateinput1">
+                <input type="date" id="date" name="date">
+            </form>
+
+            <button onclick="goToNewAddress()">Go</button>
+
+        </div>
+
+    </div>
 
 </div>
 
 <script>
     function goToNewAddress() {
-        var dropdown1 = document.getElementById("dropdown1").value;
-        var dateInput = document.getElementById("date");
-        var selectedDate = dateInput.value;
+        let dropdown1 = document.getElementById("cinema-selector").value;
+        let dateInput = document.getElementById("date");
+        let selectedDate = dateInput.value;
 
-        var newAddress = "{{ url_for('jason') }}";
+        let newAddress = "{{ url_for('jason') }}";
         newAddress = newAddress + "?date=" + selectedDate + "&cinema=" + dropdown1;
 
         window.location.href = newAddress;
@@ -38,18 +44,32 @@
 </script>
 
 <script>
-    // Get today's date
-    var today = new Date();
+    let today = new Date();
 
-    // Format the date as yyyy-mm-dd
-    var yyyy = today.getFullYear();
-    var mm = String(today.getMonth() + 1).padStart(2, '0');
-    var dd = String(today.getDate()).padStart(2, '0');
-    var todayFormatted = yyyy + '-' + mm + '-' + dd;
+    let yyyy = today.getFullYear();
+    let mm = String(today.getMonth() + 1).padStart(2, '0');
+    let dd = String(today.getDate()).padStart(2, '0');
+    let todayFormatted = yyyy + '-' + mm + '-' + dd;
 
     // Set the default value of the date input field to today's date
     document.getElementById('date').value = todayFormatted;
 </script>
+
+<script>
+    // Change background based on selected cinema
+    const cinemas = JSON.parse('{{ cinemas|tojson }}');
+
+    const select = document.getElementById('dropdown1');
+    const body = document.getElementById('ccg_body');
+
+    select.addEventListener('change', function () {
+        const selectedOption = select.options[select.selectedIndex];
+        const imgUrl = cinemas[selectedOption.value]['imageUrl'];
+
+        body.style.backgroundImage = `url(${imgUrl})`;
+    });
+</script>
+
 
 {% endblock %}
 

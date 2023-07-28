@@ -1,4 +1,3 @@
-
 from datetime import date, timedelta
 import requests
 import json
@@ -141,10 +140,7 @@ def add_mins(hour, duration):
 
     t_hour += hours
 
-    if t_mins >= 10:
-        return "{}:{}".format(t_hour, t_mins)
-    else:
-        return "{}:0{}".format(t_hour, t_mins)
+    return f"{t_hour:02d}:{t_mins:02d}"
 
 
 if __name__ == "__main__":

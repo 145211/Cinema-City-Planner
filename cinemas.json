@@ -1,142 +1,177 @@
 {
     "bielsko-biala": {
         "id": "1088",
-        "display": "Bielsko-Biała"
+        "display": "Bielsko-Biała",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:7de90116-6112-42fa-aa73-191a6c72ec52"
     },
     "bydgoszcz": {
         "id": "1086",
-        "display": "Bydgoszcz"
+        "display": "Bydgoszcz",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:48af59e9-d5ba-46ec-833d-6f2c116af811"
     },
     "bytom": {
         "id": "1092",
-        "display": "Bytom"
+        "display": "Bytom",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:ad76a65b-9c93-46be-914a-5f915781381f"
     },
     "cieszyn": {
         "id": "1098",
-        "display": "Cieszyn"
+        "display": "Cieszyn",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:62949f67-6cf4-4012-a785-d71b8d76ed80"
     },
     "jurajska": {
         "id": "1089",
-        "display": "Częstochowa - Galeria Jurajska"
+        "display": "Częstochowa - Galeria Jurajska",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:a40d1bdd-8439-4e09-935c-369c11e003aa"
     },
     "wolnosc": {
         "id": "1075",
-        "display": "Częstochowa - Wolność"
+        "display": "Częstochowa - Wolność",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:5fff0d95-65d8-4eb9-be13-9262a8dabb7e"
     },
     "elblag": {
         "id": "1099",
-        "display": "Elbląg"
+        "display": "Elbląg",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:97458598-749a-41a7-aac0-338d3e4b9a76"
     },
     "gliwice": {
         "id": "1085",
-        "display": "Gliwice"
+        "display": "Gliwice",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:e821d1ca-5aff-499d-a265-026508bb28fc"
     },
     "punkt44": {
         "id": "1065",
-        "display": "Katowice - Punkt 44"
+        "display": "Katowice - Punkt 44",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:ca2c8c24-1b44-47a4-be33-46499cef9499"
     },
     "silesia": {
         "id": "1079",
-        "display": "Katowice - Silesia"
+        "display": "Katowice - Silesia",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:6bca3602-ee06-45d8-a1fc-ec5c3dca620b"
     },
     "bonarka": {
         "id": "1090",
-        "display": "Kraków - Bonarka"
+        "display": "Kraków - Bonarka",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:dc3762f5-37d3-4ba2-a2dd-c18575af5f56"
     },
     "kazimierz": {
         "id": "1076",
-        "display": "Kraków - Galeria Kazimierz"
+        "display": "Kraków - Galeria Kazimierz",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:a59d58a0-b067-4f75-82ac-968c7e93d3d2"
     },
     "zakopianka": {
         "id": "1064",
-        "display": "Kraków - Zakopianka"
+        "display": "Kraków - Zakopianka",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:1d700f2c-848d-459d-b90e-281258f90674"
     },
     "felicity": {
         "id": "1094",
-        "display": "Lublin - Felicity"
+        "display": "Lublin - Felicity",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:b762806f-159a-4a45-b9cb-6bfe2ccbf8d1"
     },
     "lublinplaza": {
         "id": "1084",
-        "display": "Lublin - Plaza"
+        "display": "Lublin - Plaza",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:445b337e-d9f7-4201-9adf-911c51492ada"
     },
     "manufaktura": {
         "id": "1080",
-        "display": "Łódź Manufaktura"
+        "display": "Łódź Manufaktura",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:c7066998-54e4-4707-8ab0-7d409abc03d9"
     },
     "kinepolis": {
         "id": "1081",
-        "display": "Poznań - Kinepolis"
+        "display": "Poznań - Kinepolis",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:cb267f9e-ef04-4987-8168-986c7039338c"
     },
     "poznanplaza": {
         "id": "1078",
-        "display": "Poznań - Plaza"
+        "display": "Poznań - Plaza",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:9d14ae0d-f2e6-4646-a9a8-c5b8bb2d3f2b"
     },
     "rudaslaska": {
         "id": "1062",
-        "display": "Ruda Śląska"
+        "display": "Ruda Śląska",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:bdf993ea-d3e4-4e7a-a368-9a6a7b2cd235"
     },
     "rybnik": {
         "id": "1082",
-        "display": "Rybnik"
+        "display": "Rybnik",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:9bde8347-d90a-4962-a871-2907910a46a8"
     },
     "sosnowiec": {
         "id": "1083",
-        "display": "Sosnowiec"
+        "display": "Sosnowiec",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:f62fa577-43ae-4b95-b54b-cc27ac2ce6e8"
     },
     "starogard": {
         "id": "1095",
-        "display": "Starogard Gdański"
+        "display": "Starogard Gdański",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:8ac13b11-82dd-4efb-927c-0d7d41780ec7"
     },
     "czerwonadroga": {
         "id": "1077",
-        "display": "Toruń - Czerwona Droga"
+        "display": "Toruń - Czerwona Droga",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:fd6dee29-1258-40ed-ac0d-625358217c4b"
     },
     "torunplaza": {
         "id": "1093",
-        "display": "Toruń - Plaza"
+        "display": "Toruń - Plaza",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:dba4570a-b17c-436f-91ab-181799407c28"
     },
     "walbrzych": {
         "id": "1091",
-        "display": "Wałbrzych"
+        "display": "Wałbrzych",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:0a7408ab-ee76-4cc3-a728-a9fd5d199058"
     },
     "arkadia": {
         "id": "1074",
-        "display": "Warszawa -  Arkadia"
+        "display": "Warszawa -  Arkadia",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:73761c8b-9940-4469-a5e2-1c40b90bd595"
     },
     "bemowo": {
         "id": "1061",
-        "display": "Warszawa - Bemowo"
+        "display": "Warszawa - Bemowo",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:b5bb3e58-1b69-4741-9548-14dabe190ca6"
     },
     "galeriapolnocna": {
         "id": "1096",
-        "display": "Warszawa - Białołęka Galeria Północna"
+        "display": "Warszawa - Białołęka Galeria Północna",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:94a602bb-feb2-4fa7-aded-65b0aa949b53"
     },
     "mokotow": {
         "id": "1070",
-        "display": "Warszawa - Galeria Mokotów"
+        "display": "Warszawa - Galeria Mokotów",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:d39bc479-6ebe-4025-9aae-0ec4fa82ea99"
     },
     "janki": {
         "id": "1069",
-        "display": "Warszawa - Janki"
+        "display": "Warszawa - Janki",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:58f1576c-82a4-46c3-8e0a-12686a6b4d69"
     },
     "promenada": {
         "id": "1068",
-        "display": "Warszawa - Promenada"
+        "display": "Warszawa - Promenada",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:9d39b776-c0dd-4485-8bb6-3c025bf1beb0"
     },
     "sadyba": {
         "id": "1060",
-        "display": "Warszawa - Sadyba"
+        "display": "Warszawa - Sadyba",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:bb986929-b525-4f95-8f3c-39eedf9a2879"
     },
     "korona": {
         "id": "1067",
-        "display": "Wrocław - Korona"
+        "display": "Wrocław - Korona",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:d3827708-4218-4139-b51e-b80504460b01"
     },
     "wroclavia": {
         "id": "1097",
-        "display": "Wrocław - Wroclavia"
+        "display": "Wrocław - Wroclavia",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:2189d432-bf8e-46a0-8a19-ec21547e18c1"
     },
     "zielonagora": {
         "id": "1087",
-        "display": "Zielona Góra"
+        "display": "Zielona Góra",
+        "imageUrl": "https://www.cinema-city.pl/static/dam/jcr:8db68101-1b82-4660-9efd-e65cead65bd8"
     }
 }

@@ -4,29 +4,40 @@
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-{{ plot_div | safe }}
+<div id="main-div-plotter" class="main-div">
 
-<ul class="titlesChecklist">
-    {% for item in titles %}
-    <li>
-        <input type="checkbox" id="{{ loop.index }}" name="checkboxes" value="{{ item }}">
-        <label for="{{ loop.index }}">{{ item }}</label>
-    </li>
-    {% endfor %}
-</ul>
+    <div class="container" id="plot-container">
+        {{ plot_div | safe }}
+    </div>
 
-<div class="container">
-    <input type="hidden" id="checkedIndexes" name="checkedIndexes" value="">
-    <button onclick="sendCheckedIndexes()">Select</button>
+    <div class="container" id="checklist-container">
+        <div class="container-header">
+            Select movies
+        </div>
+        <div class="container-body">
+            <ul id="titlesChecklist">
+                {% for item in titles %}
+                <li>
+                    <input type="checkbox" id="{{ loop.index }}" name="checkboxes" value="{{ item }}">
+                    <label for="{{ loop.index }}">{{ item }}</label>
+                </li>
+                {% endfor %}
+            </ul>
+
+            <input type="hidden" id="checkedIndexes" name="checkedIndexes" value="">
+            <button onclick="sendCheckedIndexes()">Select</button>
+        </div>
+    </div>
+
 </div>
 
 <script>
     function sendCheckedIndexes() {
-        var checkboxes = document.getElementsByName('checkboxes');
-        var checkedIndexes = [];
-        var url = window.location.href;
+        let checkboxes = document.getElementsByName('checkboxes');
+        let checkedIndexes = [];
+        let url = window.location.href;
 
-        for (var i = 0; i < checkboxes.length; i++) {
+        for (let i = 0; i < checkboxes.length; i++) {
             if (checkboxes[i].checked) {
                 checkedIndexes.push(i);
             }

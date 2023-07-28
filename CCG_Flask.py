@@ -6,7 +6,7 @@ from flask import Flask, render_template, request
 
 from MatplotCCG import make_plot_plotly
 
-static_folder = r"/home/Victorus/mysite/"
+# static_folder = r"/home/Victorus/mysite/"
 static_folder = r"C:/Users/Victorus/PycharmProjects/Fixed2/Personal/CCG2/"
 
 app = Flask(__name__, static_folder=static_folder)
@@ -19,7 +19,13 @@ def home():
 
 @app.route("/ccg", methods=("GET", "POST"), strict_slashes=False)
 def ccg():
-    return render_template("grabberSelector.html")
+    data = json.load(open(f"{static_folder}cinemas.json", encoding='utf-8'))
+    return render_template("grabberSelector.html", cinemas=data)
+
+
+@app.route("/pattern", methods=("GET", "POST"), strict_slashes=False)
+def pattern():
+    return render_template("patternMaker.html")
 
 
 @app.route("/jason", methods=("GET", "POST"), strict_slashes=False)
@@ -34,7 +40,7 @@ def jason():
     fig.update_layout(height=800)
     div = fig.to_html(full_html=False)
 
-    return render_template("jason.html", data=data, plot_div=div, titles=titles)
+    return render_template("grabberPlotter.html", data=data, plot_div=div, titles=titles)
 
 
 if __name__ == "__main__":
