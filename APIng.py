@@ -14,7 +14,7 @@ def scrapping():
         day = date.today() + timedelta(days=days)
         dates.append(day)
 
-    cinema_showings = {key: {} for key in testing}
+    cinema_showings = {key: {} for key in cinemas}
 
     for cinema in cinema_showings:
         for day in dates:

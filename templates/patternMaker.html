@@ -4,20 +4,167 @@
 
 <div id="main-div-pattern" class="main-div">
 
-    <div class="container" id="pattern-container">
+    <div class="container" id="pattern-canvas">
 
         <div class="container-header">
-            Pattern generator
+            Pattern
         </div>
 
-        <div class="container-body">
-            There will soon be an app to create a bg image like the one on this site<br>
-            Work in progress
+        <div class="container-body" id="container-body">
+            <canvas id="grid-canvas"></canvas>
+
+            <button onclick="diagonalGrid()">Draw</button>
+
+            <input type="file" id="image-input" accept="image/*">
+            <ul id="image-list"></ul>
+            <script src="script.js"></script>
+
+            <ul id="pattern-options">
+                <li>
+                    <div>Side length</div>
+                    <input type="number" id="side-length" value="400">
+                </li>
+                <li>
+                    <div>Line density</div>
+                    <input type="number" id="line-density" value="4">
+                </li>
+                <li>
+                    <div>Transparency</div>
+                    <input type="number" id="transparency" value="1">
+                </li>
+            </ul>
+
         </div>
 
     </div>
 
 </div>
+
+<script>
+    const imageInput = document.getElementById('image-input');
+    const imageList = document.getElementById('image-list');
+
+    imageInput.addEventListener('change', handleImageUpload);
+
+    function handleImageUpload(event) {
+        const files = event.target.files;
+
+        for (const file of files) {
+            if (file.type.startsWith('image/')) {
+                const reader = new FileReader();
+
+                reader.onload = function (event) {
+                    const img = document.createElement('img');
+                    img.src = event.target.result;
+                    img.alt = file.name;
+                    img.width = 50;
+                    img.height = 50;
+
+                    const li = document.createElement('li');
+                    li.appendChild(img);
+                    imageList.appendChild(li);
+                };
+
+                reader.readAsDataURL(file);
+            }
+        }
+    }
+</script>
+
+<script>
+    function diagonalGrid() {
+        const side = document.getElementById('side-length').value;
+        const numRows = document.getElementById('line-density').value;
+        const transparency = document.getElementById('transparency').value;
+
+        const cellSize = Math.floor(side / numRows);
+        const rectSize = Math.floor(cellSize / 2);
+        const offset = Math.floor(rectSize / 2);
+        const iconOffset = Math.floor(offset / 2);
+
+        const canvas = document.getElementById('grid-canvas');
+        canvas.setAttribute("width", side)
+        canvas.setAttribute("height", side)
+        const ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        ctx.globalAlpha = transparency;
+
+        for (let row = 0; row < numRows * 2; row++) {
+            let y0 = 0;
+            let x0 = row * cellSize;
+            let y1 = row * cellSize;
+            let x1 = 0;
+            drawLine(ctx, x0, y0, x1, y1, 1);
+
+            y0 = -side + row * cellSize;
+            x0 = 0;
+            y1 = row * cellSize;
+            x1 = side;
+            drawLine(ctx, x0, y0, x1, y1, 1);
+        }
+
+        let counter = 0;
+        let dist = 2;
+        const list = document.getElementById("image-list");
+        const images = list.getElementsByTagName("li");
+
+        for (let row = 0; row < numRows; row++) {
+            for (let col = 0; col < numRows; col++) {
+                if ((row + col) % dist === 0) {
+                    const y0 = offset + row * cellSize;
+                    const x0 = offset + col * cellSize;
+                    const y1 = y0 + rectSize;
+                    const x1 = x0 + rectSize;
+
+                    ctx.globalCompositeOperation = 'destination-out';
+                    ctx.beginPath();
+                    ctx.ellipse((x0 + x1) / 2, (y0 + y1) / 2, rectSize / 2, rectSize / 2, 0, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.globalCompositeOperation = 'source-over';
+
+                    if (images.length > 0) {
+                        const img = new Image();
+                        img.src = getImageFromList(images, counter, offset); // Replace this function with your logic to get images from the list
+
+                        img.onload = function () {
+                            ctx.drawImage(img, x0 + iconOffset, y0 + iconOffset);
+                        };
+                    }
+
+                    counter++;
+                }
+            }
+        }
+    }
+
+    function drawLine(ctx, x0, y0, x1, y1, transparency) {
+        ctx.beginPath();
+        ctx.moveTo(x0, y0);
+        ctx.lineTo(x1, y1);
+        ctx.strokeStyle = `rgba(0, 0, 0, ${transparency})`;
+        ctx.stroke();
+    }
+
+    function getImageFromList(images, idx, size) {
+        const image = images[idx % images.length].firstChild;
+        console.log(image.src)
+        const icon = resizeImage(image, size)
+
+        return icon;
+    }
+
+    function resizeImage(img, size) {
+        const canvas = document.createElement("canvas");
+        canvas.width = size;
+        canvas.height = size;
+
+        const ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0, size, size);
+
+        return canvas.toDataURL();
+    }
+</script>
 
 {% endblock %}
 

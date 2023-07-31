@@ -1,12 +1,43 @@
 
-#pattern-container {
+#pattern-canvas {
     grid-area: 1 / 2 / 1 / 2;
 }
 
 #main-div-pattern {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: 1fr;
     grid-column-gap: 10px;
     grid-row-gap: 10px;
 }
+
+#grid-canvas {
+
+}
+
+#image-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+}
+
+#pattern-options {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+}
+
+#pattern-options li {
+    justify-content: space-around;
+}
+
+#pattern-options li div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
