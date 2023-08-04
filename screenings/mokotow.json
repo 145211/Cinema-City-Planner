@@ -1,5 +1,5 @@
 {
-    "2023-07-31": [
+    "2023-08-04": [
         {
             "title": "Alibi.com 2",
             "duration": 88,
@@ -8,16 +8,10 @@
                     "type": "2D",
                     "language": "FR (NAP PL)",
                     "start": [
-                        "13:15",
-                        "17:50",
-                        "19:50",
-                        "21:50"
+                        "21:30"
                     ],
                     "end": [
-                        "14:43",
-                        "19:18",
-                        "21:18",
-                        "23:18"
+                        "22:58"
                     ]
                 }
             ]
@@ -28,35 +22,18 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "12:50",
-                        "15:30",
-                        "18:10"
-                    ],
-                    "end": [
-                        "12:05",
-                        "14:55",
-                        "17:35",
-                        "20:15"
-                    ]
-                },
-                {
-                    "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
                         "11:00",
                         "12:10",
                         "13:50",
                         "14:50",
-                        "15:50",
+                        "16:00",
                         "16:30",
                         "17:30",
                         "18:40",
                         "19:10",
                         "20:10",
-                        "20:50",
                         "21:50"
                     ],
                     "end": [
@@ -64,14 +41,29 @@
                         "14:15",
                         "15:55",
                         "16:55",
-                        "17:55",
+                        "18:05",
                         "18:35",
                         "19:35",
                         "20:45",
                         "21:15",
                         "22:15",
-                        "22:55",
                         "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
                     ]
                 }
             ]
@@ -84,28 +76,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "12:30",
-                        "19:50"
+                        "19:20"
                     ],
                     "end": [
-                        "15:04",
-                        "22:24"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia mówi: Dzień dobry",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "10:45"
-                    ],
-                    "end": [
-                        "11:30"
+                        "21:54"
                     ]
                 }
             ]
@@ -118,18 +92,12 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:20",
-                        "11:00",
-                        "13:10",
-                        "15:20",
-                        "17:40"
+                        "11:10",
+                        "13:20"
                     ],
                     "end": [
-                        "11:53",
-                        "12:33",
-                        "14:43",
-                        "16:53",
-                        "19:13"
+                        "12:43",
+                        "14:53"
                     ]
                 }
             ]
@@ -142,10 +110,86 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:20"
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "13:50",
+                        "15:00",
+                        "17:10"
                     ],
                     "end": [
-                        "11:59"
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "15:29",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
                     ]
                 }
             ]
@@ -158,16 +202,10 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:50",
-                        "11:10",
-                        "13:30",
-                        "15:40"
+                        "11:10"
                     ],
                     "end": [
-                        "12:40",
-                        "13:00",
-                        "15:20",
-                        "17:30"
+                        "13:00"
                     ]
                 }
             ]
@@ -180,16 +218,12 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:10",
-                        "11:30",
-                        "14:40",
-                        "15:20"
+                        "11:50",
+                        "12:30"
                     ],
                     "end": [
-                        "11:55",
-                        "13:15",
-                        "16:25",
-                        "17:05"
+                        "13:35",
+                        "14:15"
                     ]
                 }
             ]
@@ -202,18 +236,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "17:20",
-                        "18:10",
-                        "20:40",
-                        "21:20",
-                        "21:30"
+                        "17:20"
                     ],
                     "end": [
-                        "20:03",
-                        "20:53",
-                        "23:23",
-                        "24:03",
-                        "24:13"
+                        "20:03"
                     ]
                 }
             ]
@@ -226,34 +252,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "11:40",
-                        "14:20",
-                        "17:00",
-                        "19:40",
-                        "21:10"
+                        "21:20"
                     ],
                     "end": [
-                        "13:44",
-                        "16:24",
-                        "19:04",
-                        "21:44",
-                        "23:14"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:02"
+                        "23:24"
                     ]
                 }
             ]
@@ -298,936 +300,184 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "14:00",
-                        "18:20",
-                        "20:20",
+                        "20:40",
                         "22:30"
                     ],
                     "end": [
-                        "15:29",
-                        "19:49",
-                        "21:49",
+                        "22:09",
                         "23:59"
                     ]
                 }
             ]
         },
         {
-            "title": "Pierwszy dzień mojego życia",
-            "duration": 121,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "IT (NAP PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:41"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Super Mario Bros. Film",
-            "duration": 92,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "12:30"
-                    ],
-                    "end": [
-                        "11:42",
-                        "14:02"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:30",
-                        "16:10"
-                    ],
-                    "end": [
-                        "14:10",
-                        "17:50"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-08-01": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "13:15",
-                        "17:50",
-                        "19:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "14:43",
-                        "19:18",
-                        "21:18",
-                        "23:18"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "12:50",
-                        "15:30",
-                        "18:10"
-                    ],
-                    "end": [
-                        "12:05",
-                        "14:55",
-                        "17:35",
-                        "20:15"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:00",
-                        "12:10",
-                        "13:50",
-                        "14:50",
-                        "15:50",
-                        "16:30",
-                        "17:30",
-                        "18:40",
-                        "19:10",
-                        "20:10",
-                        "20:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "13:05",
-                        "14:15",
-                        "15:55",
-                        "16:55",
-                        "17:55",
-                        "18:35",
-                        "19:35",
-                        "20:45",
-                        "21:15",
-                        "22:15",
-                        "22:55",
-                        "23:55"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Indiana Jones i artefakt przeznaczenia",
-            "duration": 154,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:30",
-                        "21:50"
-                    ],
-                    "end": [
-                        "15:04",
-                        "24:24"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia mówi: Dzień dobry",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "10:45"
-                    ],
-                    "end": [
-                        "11:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:20",
-                        "11:00",
-                        "13:10",
-                        "15:20",
-                        "17:40"
-                    ],
-                    "end": [
-                        "11:53",
-                        "12:33",
-                        "14:43",
-                        "16:53",
-                        "19:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:20"
-                    ],
-                    "end": [
-                        "11:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Między nami żywiołami",
-            "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:50",
-                        "11:10",
-                        "13:30",
-                        "15:40"
-                    ],
-                    "end": [
-                        "12:40",
-                        "13:00",
-                        "15:20",
-                        "17:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miraculous: Biedronka i Czarny Kot",
-            "duration": 105,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "12:00",
-                        "14:40",
-                        "15:20"
-                    ],
-                    "end": [
-                        "11:55",
-                        "13:45",
-                        "16:25",
-                        "17:05"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mission: Impossible - Dead Reckoning Part One",
-            "duration": 163,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:20",
-                        "18:10",
-                        "20:40",
-                        "21:20",
-                        "21:30"
-                    ],
-                    "end": [
-                        "20:03",
-                        "20:53",
-                        "23:23",
-                        "24:03",
-                        "24:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:40",
-                        "14:20",
-                        "17:00",
-                        "19:40",
-                        "21:10"
-                    ],
-                    "end": [
-                        "13:44",
-                        "16:24",
-                        "19:04",
-                        "21:44",
-                        "23:14"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:02"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "10:40",
-                        "12:20",
-                        "14:20",
-                        "16:00",
-                        "17:00",
-                        "18:00",
-                        "19:40",
-                        "20:40",
-                        "21:40"
-                    ],
-                    "end": [
-                        "13:40",
-                        "15:20",
-                        "17:20",
-                        "19:00",
-                        "20:00",
-                        "21:00",
-                        "22:40",
-                        "23:40",
-                        "24:40"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:30",
-                        "19:50",
-                        "21:30"
-                    ],
-                    "end": [
-                        "15:59",
-                        "21:19",
-                        "22:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pierwszy dzień mojego życia",
-            "duration": 121,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "IT (NAP PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:41"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Super Mario Bros. Film",
-            "duration": 92,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "12:30"
-                    ],
-                    "end": [
-                        "11:42",
-                        "14:02"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:30",
-                        "16:40"
-                    ],
-                    "end": [
-                        "14:10",
-                        "18:20"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-08-02": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "13:15",
-                        "17:50",
-                        "19:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "14:43",
-                        "19:18",
-                        "21:18",
-                        "23:18"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "12:50",
-                        "15:30",
-                        "18:10"
-                    ],
-                    "end": [
-                        "12:05",
-                        "14:55",
-                        "17:35",
-                        "20:15"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:00",
-                        "12:10",
-                        "13:50",
-                        "14:50",
-                        "15:50",
-                        "16:30",
-                        "17:30",
-                        "18:40",
-                        "19:10",
-                        "20:10",
-                        "20:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "13:05",
-                        "14:15",
-                        "15:55",
-                        "16:55",
-                        "17:55",
-                        "18:35",
-                        "19:35",
-                        "20:45",
-                        "21:15",
-                        "22:15",
-                        "22:55",
-                        "23:55"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Indiana Jones i artefakt przeznaczenia",
-            "duration": 154,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "12:30",
-                        "19:50"
-                    ],
-                    "end": [
-                        "15:04",
-                        "22:24"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia mówi: Dzień dobry",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "10:45"
-                    ],
-                    "end": [
-                        "11:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:20",
-                        "11:00",
-                        "13:10",
-                        "15:20",
-                        "17:40"
-                    ],
-                    "end": [
-                        "11:53",
-                        "12:33",
-                        "14:43",
-                        "16:53",
-                        "19:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:20"
-                    ],
-                    "end": [
-                        "11:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Między nami żywiołami",
-            "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:50",
-                        "11:10",
-                        "13:30",
-                        "15:40"
-                    ],
-                    "end": [
-                        "12:40",
-                        "13:00",
-                        "15:20",
-                        "17:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Miraculous: Biedronka i Czarny Kot",
-            "duration": 105,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "11:30",
-                        "14:40",
-                        "15:20"
-                    ],
-                    "end": [
-                        "11:55",
-                        "13:15",
-                        "16:25",
-                        "17:05"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mission: Impossible - Dead Reckoning Part One",
-            "duration": 163,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:20",
-                        "18:10",
-                        "20:40",
-                        "21:20",
-                        "21:30"
-                    ],
-                    "end": [
-                        "20:03",
-                        "20:53",
-                        "23:23",
-                        "24:03",
-                        "24:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:40",
-                        "14:20",
-                        "17:00",
-                        "19:40",
-                        "21:10"
-                    ],
-                    "end": [
-                        "13:44",
-                        "16:24",
-                        "19:04",
-                        "21:44",
-                        "23:14"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:02"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "10:40",
-                        "12:20",
-                        "14:20",
-                        "16:00",
-                        "17:00",
-                        "18:00",
-                        "19:40",
-                        "20:40",
-                        "21:40"
-                    ],
-                    "end": [
-                        "13:40",
-                        "15:20",
-                        "17:20",
-                        "19:00",
-                        "20:00",
-                        "21:00",
-                        "22:40",
-                        "23:40",
-                        "24:40"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "14:00",
-                        "18:20",
-                        "20:20",
-                        "22:30"
-                    ],
-                    "end": [
-                        "15:29",
-                        "19:49",
-                        "21:49",
-                        "23:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pierwszy dzień mojego życia",
-            "duration": 121,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "IT (NAP PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:41"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Super Mario Bros. Film",
-            "duration": 92,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:10",
-                        "12:30"
-                    ],
-                    "end": [
-                        "11:42",
-                        "14:02"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:30",
-                        "16:10"
-                    ],
-                    "end": [
-                        "14:10",
-                        "17:50"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-08-03": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "13:15",
-                        "17:50",
-                        "19:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "14:43",
-                        "19:18",
-                        "21:18",
-                        "23:18"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "12:50",
-                        "15:30",
-                        "18:10"
-                    ],
-                    "end": [
-                        "12:05",
-                        "14:55",
-                        "17:35",
-                        "20:15"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:00",
-                        "12:10",
-                        "13:50",
-                        "14:50",
-                        "15:50",
-                        "16:30",
-                        "17:30",
-                        "18:40",
-                        "19:10",
-                        "20:10",
-                        "20:50",
-                        "21:50"
-                    ],
-                    "end": [
-                        "13:05",
-                        "14:15",
-                        "15:55",
-                        "16:55",
-                        "17:55",
-                        "18:35",
-                        "19:35",
-                        "20:45",
-                        "21:15",
-                        "22:15",
-                        "22:55",
-                        "23:55"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Indiana Jones i artefakt przeznaczenia",
-            "duration": 154,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "12:30"
-                    ],
-                    "end": [
-                        "15:04"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "19:50"
-                    ],
-                    "end": [
-                        "22:24"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia mówi: Dzień dobry",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "10:45"
-                    ],
-                    "end": [
-                        "11:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Ladies Night - Porady na zdrady 2",
+            "title": "Porady na zdrady 2",
             "duration": 98,
             "screenings": [
                 {
                     "type": "2D",
                     "language": "",
                     "start": [
+                        "10:30",
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
                         "19:30",
-                        "19:30"
+                        "20:50",
+                        "21:45"
                     ],
                     "end": [
+                        "12:08",
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
                         "21:08",
-                        "21:08"
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:42"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-05": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00"
+                    ],
+                    "end": [
+                        "11:35",
+                        "13:45"
                     ]
                 }
             ]
@@ -1240,18 +490,12 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:20",
-                        "11:00",
-                        "13:10",
-                        "15:20",
-                        "17:40"
+                        "11:10",
+                        "13:20"
                     ],
                     "end": [
-                        "11:53",
-                        "12:33",
-                        "14:43",
-                        "16:53",
-                        "19:13"
+                        "12:43",
+                        "14:53"
                     ]
                 }
             ]
@@ -1264,10 +508,84 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:20"
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
                     ],
                     "end": [
-                        "11:59"
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
                     ]
                 }
             ]
@@ -1280,16 +598,12 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:50",
                         "11:10",
-                        "13:30",
-                        "15:40"
+                        "13:30"
                     ],
                     "end": [
-                        "12:40",
                         "13:00",
-                        "15:20",
-                        "17:30"
+                        "15:20"
                     ]
                 }
             ]
@@ -1302,16 +616,12 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:10",
-                        "11:30",
-                        "14:40",
-                        "15:20"
+                        "10:40",
+                        "12:30"
                     ],
                     "end": [
-                        "11:55",
-                        "13:15",
-                        "16:25",
-                        "17:05"
+                        "12:25",
+                        "14:15"
                     ]
                 }
             ]
@@ -1324,18 +634,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "17:20",
-                        "18:10",
-                        "20:40",
-                        "21:20",
-                        "21:30"
+                        "17:20"
                     ],
                     "end": [
-                        "20:03",
-                        "20:53",
-                        "23:23",
-                        "24:03",
-                        "24:13"
+                        "20:03"
                     ]
                 }
             ]
@@ -1348,18 +650,10 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "11:20",
-                        "14:00",
-                        "16:40",
-                        "21:10",
-                        "22:10"
+                        "21:20"
                     ],
                     "end": [
-                        "13:24",
-                        "16:04",
-                        "18:44",
-                        "23:14",
-                        "24:14"
+                        "23:24"
                     ]
                 }
             ]
@@ -1404,32 +698,40 @@
                     "type": "2D",
                     "language": "EN (NAP PL)",
                     "start": [
-                        "14:00",
-                        "18:20",
-                        "20:20",
+                        "20:40",
                         "22:30"
                     ],
                     "end": [
-                        "15:29",
-                        "19:49",
-                        "21:49",
+                        "22:09",
                         "23:59"
                     ]
                 }
             ]
         },
         {
-            "title": "Pierwszy dzień mojego życia",
-            "duration": 121,
+            "title": "Porady na zdrady 2",
+            "duration": 98,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "IT (NAP PL)",
+                    "language": "",
                     "start": [
-                        "14:40"
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
                     ],
                     "end": [
-                        "16:41"
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
                     ]
                 }
             ]
@@ -1442,12 +744,10 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "10:10",
-                        "12:30"
+                        "10:10"
                     ],
                     "end": [
-                        "11:42",
-                        "14:02"
+                        "11:42"
                     ]
                 }
             ]
@@ -1460,24 +760,1987 @@
                     "type": "2D",
                     "language": "(DUB PL)",
                     "start": [
-                        "12:30",
-                        "16:10"
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
                     ],
                     "end": [
-                        "14:10",
-                        "17:50"
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
                     ]
                 }
             ]
         }
     ],
-    "2023-08-04": [],
-    "2023-08-05": [],
-    "2023-08-06": [],
-    "2023-08-07": [],
-    "2023-08-08": [],
-    "2023-08-09": [],
-    "2023-08-10": [],
+    "2023-08-06": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:10",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:15",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50"
+                    ],
+                    "end": [
+                        "11:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:20"
+                    ],
+                    "end": [
+                        "12:43",
+                        "14:53"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
+                    ],
+                    "end": [
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "14:50",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "16:46",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Między nami żywiołami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:30"
+                    ],
+                    "end": [
+                        "13:00",
+                        "15:20"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:40",
+                        "12:30"
+                    ],
+                    "end": [
+                        "12:25",
+                        "14:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:20"
+                    ],
+                    "end": [
+                        "20:03"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nawiedzony dwór",
+            "duration": 124,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "10:40",
+                        "12:20",
+                        "14:20",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:40",
+                        "20:40",
+                        "21:40"
+                    ],
+                    "end": [
+                        "13:40",
+                        "15:20",
+                        "17:20",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:40",
+                        "23:40",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pajęczyna",
+            "duration": 89,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:40",
+                        "22:30"
+                    ],
+                    "end": [
+                        "22:09",
+                        "23:59"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
+                    ],
+                    "end": [
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:42"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-07": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50"
+                    ],
+                    "end": [
+                        "11:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:20"
+                    ],
+                    "end": [
+                        "12:43",
+                        "14:53"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
+                    ],
+                    "end": [
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Między nami żywiołami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:30"
+                    ],
+                    "end": [
+                        "13:00",
+                        "15:20"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:40",
+                        "12:30"
+                    ],
+                    "end": [
+                        "12:25",
+                        "14:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:20"
+                    ],
+                    "end": [
+                        "20:03"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nawiedzony dwór",
+            "duration": 124,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "10:40",
+                        "12:20",
+                        "14:20",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:40",
+                        "20:40",
+                        "21:40"
+                    ],
+                    "end": [
+                        "13:40",
+                        "15:20",
+                        "17:20",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:40",
+                        "23:40",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pajęczyna",
+            "duration": 89,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:40",
+                        "22:30"
+                    ],
+                    "end": [
+                        "22:09",
+                        "23:59"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
+                    ],
+                    "end": [
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:42"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-08": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50"
+                    ],
+                    "end": [
+                        "11:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:20"
+                    ],
+                    "end": [
+                        "12:43",
+                        "14:53"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
+                    ],
+                    "end": [
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Między nami żywiołami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:30"
+                    ],
+                    "end": [
+                        "13:00",
+                        "15:20"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:40",
+                        "12:30"
+                    ],
+                    "end": [
+                        "12:25",
+                        "14:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:20"
+                    ],
+                    "end": [
+                        "20:03"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nawiedzony dwór",
+            "duration": 124,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "10:40",
+                        "12:20",
+                        "14:20",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:40",
+                        "20:40",
+                        "21:40"
+                    ],
+                    "end": [
+                        "13:40",
+                        "15:20",
+                        "17:20",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:40",
+                        "23:40",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pajęczyna",
+            "duration": 89,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:40",
+                        "22:30"
+                    ],
+                    "end": [
+                        "22:09",
+                        "23:59"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
+                    ],
+                    "end": [
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:42"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-09": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50"
+                    ],
+                    "end": [
+                        "11:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:20"
+                    ],
+                    "end": [
+                        "12:43",
+                        "14:53"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
+                    ],
+                    "end": [
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Między nami żywiołami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:30"
+                    ],
+                    "end": [
+                        "13:00",
+                        "15:20"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:40",
+                        "12:30"
+                    ],
+                    "end": [
+                        "12:25",
+                        "14:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:20"
+                    ],
+                    "end": [
+                        "20:03"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nawiedzony dwór",
+            "duration": 124,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "10:40",
+                        "12:20",
+                        "14:20",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:40",
+                        "20:40",
+                        "21:40"
+                    ],
+                    "end": [
+                        "13:40",
+                        "15:20",
+                        "17:20",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:40",
+                        "23:40",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pajęczyna",
+            "duration": 89,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:40",
+                        "22:30"
+                    ],
+                    "end": [
+                        "22:09",
+                        "23:59"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
+                    ],
+                    "end": [
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Super Mario Bros. Film",
+            "duration": 92,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:42"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-10": [
+        {
+            "title": "Alibi.com 2",
+            "duration": 88,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "FR (NAP PL)",
+                    "start": [
+                        "21:30"
+                    ],
+                    "end": [
+                        "22:58"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "11:00",
+                        "12:10",
+                        "13:50",
+                        "14:50",
+                        "15:50",
+                        "16:30",
+                        "17:30",
+                        "18:40",
+                        "19:10",
+                        "20:10",
+                        "21:50"
+                    ],
+                    "end": [
+                        "13:05",
+                        "14:15",
+                        "15:55",
+                        "16:55",
+                        "17:55",
+                        "18:35",
+                        "19:35",
+                        "20:45",
+                        "21:15",
+                        "22:15",
+                        "23:55"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:45",
+                        "14:20",
+                        "15:30",
+                        "18:10"
+                    ],
+                    "end": [
+                        "13:50",
+                        "16:25",
+                        "17:35",
+                        "20:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:20"
+                    ],
+                    "end": [
+                        "21:54"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50"
+                    ],
+                    "end": [
+                        "11:35"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:20"
+                    ],
+                    "end": [
+                        "12:43",
+                        "14:53"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:15",
+                        "10:30",
+                        "12:45",
+                        "15:00",
+                        "17:10"
+                    ],
+                    "end": [
+                        "11:54",
+                        "12:09",
+                        "14:24",
+                        "16:39",
+                        "18:49"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:00",
+                        "11:50",
+                        "14:20",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:56",
+                        "13:46",
+                        "16:16",
+                        "16:46"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "13:30",
+                        "16:00",
+                        "16:50",
+                        "18:30",
+                        "19:20",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "end": [
+                        "15:26",
+                        "17:56",
+                        "18:46",
+                        "20:26",
+                        "21:16",
+                        "22:56",
+                        "23:56"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:30"
+                    ],
+                    "end": [
+                        "19:26"
+                    ]
+                },
+                {
+                    "type": "3D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:00",
+                        "22:30"
+                    ],
+                    "end": [
+                        "21:56",
+                        "24:26"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Między nami żywiołami",
+            "duration": 110,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:10",
+                        "13:30"
+                    ],
+                    "end": [
+                        "13:00",
+                        "15:20"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miraculous: Biedronka i Czarny Kot",
+            "duration": 105,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:40",
+                        "12:30"
+                    ],
+                    "end": [
+                        "12:25",
+                        "14:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "duration": 163,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:20"
+                    ],
+                    "end": [
+                        "20:03"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Nawiedzony dwór",
+            "duration": 124,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "21:20"
+                    ],
+                    "end": [
+                        "23:24"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "10:40",
+                        "12:20",
+                        "14:20",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:40",
+                        "20:40",
+                        "21:40"
+                    ],
+                    "end": [
+                        "13:40",
+                        "15:20",
+                        "17:20",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:40",
+                        "23:40",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pajęczyna",
+            "duration": 89,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "20:40",
+                        "22:30"
+                    ],
+                    "end": [
+                        "22:09",
+                        "23:59"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "10:50",
+                        "13:00",
+                        "15:10",
+                        "17:20",
+                        "19:30",
+                        "20:50",
+                        "21:45"
+                    ],
+                    "end": [
+                        "12:28",
+                        "14:38",
+                        "16:48",
+                        "18:58",
+                        "21:08",
+                        "22:28",
+                        "23:23"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:50",
+                        "15:00",
+                        "17:00",
+                        "19:10"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:30",
+                        "16:40",
+                        "18:40",
+                        "20:50"
+                    ]
+                }
+            ]
+        }
+    ],
     "2023-08-11": [
         {
             "title": "Maraton Horrorów 2D",
@@ -1655,5 +2918,28 @@
             ]
         }
     ],
-    "2023-08-20": []
+    "2023-08-20": [],
+    "2023-08-21": [
+        {
+            "title": "Metallica M72 World Tour Live from TX #2",
+            "duration": 165,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "",
+                    "start": [
+                        "16:30",
+                        "20:00"
+                    ],
+                    "end": [
+                        "19:15",
+                        "22:45"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-22": [],
+    "2023-08-23": [],
+    "2023-08-24": []
 }

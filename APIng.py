@@ -86,11 +86,11 @@ def attributer(attrs):
 
     if 'dubbed' in attrs:
         mov_lang += '(DUB '
-        mov_lang += next((item for item in attrs if item.startswith('dubbed-'))).split('-')[-1].upper() + ')'
+        mov_lang += next((item for item in attrs if item.startswith('dubbed-')), 'PL').split('-')[-1].upper() + ')'
     elif 'subbed' in attrs:
-        mov_lang += next((item for item in attrs if item.startswith('original-'))).split('-')[2].upper()
+        mov_lang += next((item for item in attrs if item.startswith('original-')), None).split('-')[2].upper()
         mov_lang += ' (NAP '
-        mov_lang += next((item for item in attrs if item.startswith('first-'))).split('-')[3].upper() + ')'
+        mov_lang += next((item for item in attrs if item.startswith('first-')), None).split('-')[3].upper() + ')'
 
     return mov_format, mov_lang
 
