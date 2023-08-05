@@ -1,0 +1,3418 @@
+{
+  "body": {
+    "films": [
+      {
+        "id": "5647s2r",
+        "name": "Alibi.com 2",
+        "length": 88,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5647S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=OewLKWzh8IY",
+        "link": "https://www.cinema-city.pl/filmy/alibicom-2/5647s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "15-plus",
+          "2d",
+          "comedy",
+          "first-subbed-lang-pl",
+          "original-lang-fr-fr",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5569s2r",
+        "name": "Barbie",
+        "length": 125,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5569S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=y2bSxGLHid4",
+        "link": "https://www.cinema-city.pl/filmy/barbie/5569s2r",
+        "weight": -2,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5548s2r",
+        "name": "Indiana Jones i artefakt przeznaczenia",
+        "length": 154,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5548S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=PjPW6DX_MaM",
+        "link": "https://www.cinema-city.pl/filmy/indiana-jones-i-artefakt-przeznaczenia/5548s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "12-plus",
+          "2d",
+          "adventure",
+          "first-subbed-lang-pl",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5914o2r",
+        "name": "Kicia Kocia na pikniku",
+        "length": 45,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5914O2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=ASZRe5Q60E8",
+        "link": "https://www.cinema-city.pl/filmy/kicia-kocia-na-pikniku/5914o2r",
+        "weight": -4,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "original-lang-pl"
+        ]
+      },
+      {
+        "id": "5887d2r",
+        "name": "Lassie. Nowe przygody",
+        "length": 93,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5887D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=Zq-nfZcEF34",
+        "link": "https://www.cinema-city.pl/filmy/lassie-nowe-przygody/5887d2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ]
+      },
+      {
+        "id": "5323d2r1",
+        "name": "Mavka. Lisova pisnya",
+        "length": 99,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5323D2R1-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=GqBJ2G9Uh-w",
+        "link": "https://www.cinema-city.pl/filmy/mavka-lisova-pisnya/5323d2r1",
+        "weight": 0,
+        "releaseYear": "2022",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-uk",
+          "family",
+          "original-lang-uk"
+        ]
+      },
+      {
+        "id": "5323d2r",
+        "name": "Mavka i strażnicy lasu",
+        "length": 99,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5323D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=1qlz-YR_1fM",
+        "link": "https://www.cinema-city.pl/filmy/mavka-i-straznicy-lasu/5323d2r",
+        "weight": -5,
+        "releaseYear": "2022",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family"
+        ]
+      },
+      {
+        "id": "5785s2r",
+        "name": "Meg 2: Głębia",
+        "length": 116,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5785S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=dX7LW2zehYs",
+        "link": "https://www.cinema-city.pl/filmy/meg-2-glebia/5785s2r",
+        "weight": -8,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "3d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5538d2r",
+        "name": "Między nami żywiołami",
+        "length": 110,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5538D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=S5B_F8lf5os",
+        "link": "https://www.cinema-city.pl/filmy/miedzy-nami-zywiolami/5538d2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na"
+        ]
+      },
+      {
+        "id": "5790d2r",
+        "name": "Miraculous: Biedronka i Czarny Kot",
+        "length": 105,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5790D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=HKGiEj8iw7I",
+        "link": "https://www.cinema-city.pl/filmy/miraculous-biedronka-i-czarny-kot/5790d2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy"
+        ]
+      },
+      {
+        "id": "5724s2r",
+        "name": "Mission: Impossible - Dead Reckoning Part One",
+        "length": 163,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5724S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=BFSoww_MWUo",
+        "link": "https://www.cinema-city.pl/filmy/mission-impossible-dead-reckoning-part-one/5724s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed",
+          "thriller"
+        ]
+      },
+      {
+        "id": "5708s2r",
+        "name": "Nawiedzony dwór",
+        "length": 124,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5708S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=qfPoh169VpY",
+        "link": "https://www.cinema-city.pl/filmy/nawiedzony-dwor/5708s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5765s2r",
+        "name": "Naznaczony: Czerwone drzwi",
+        "length": 107,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5765S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=VRF90GlX_2Y",
+        "link": "https://www.cinema-city.pl/filmy/naznaczony-czerwone-drzwi/5765s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5297s2r",
+        "name": "Oppenheimer",
+        "length": 180,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5297S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=jM0cs0GLR4o",
+        "link": "https://www.cinema-city.pl/filmy/oppenheimer/5297s2r",
+        "weight": -1,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5859s2r",
+        "name": "Pajęczyna",
+        "length": 89,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5859S2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=dVy2W7vYlz8",
+        "link": "https://www.cinema-city.pl/filmy/pajeczyna/5859s2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "15-plus",
+          "2d",
+          "first-subbed-lang-pl",
+          "horror",
+          "original-lang-en-us",
+          "subbed"
+        ]
+      },
+      {
+        "id": "5910o2r",
+        "name": "Porady na zdrady 2",
+        "length": 98,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5910O2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=zfmRR8gpFfg",
+        "link": "https://www.cinema-city.pl/filmy/porady-na-zdrady-2/5910o2r",
+        "weight": -7,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ]
+      },
+      {
+        "id": "4923d2r",
+        "name": "Spider-Man: Poprzez multiwersum",
+        "length": 136,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/4923D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=JQg3nYPLWXg",
+        "link": "https://www.cinema-city.pl/filmy/spider-man-poprzez-multiwersum/4923d2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ]
+      },
+      {
+        "id": "5474d2r",
+        "name": "Super Mario Bros. Film",
+        "length": 92,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5474D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=1I79exM5t-A",
+        "link": "https://www.cinema-city.pl/filmy/super-mario-bros-film/5474d2r",
+        "weight": 0,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "6-plus",
+          "adventure",
+          "animation",
+          "comedy",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na",
+          "other_6-plus"
+        ]
+      },
+      {
+        "id": "5725d2r",
+        "name": "Wojownicze Żółwie Ninja: zmutowany chaos",
+        "length": 100,
+        "posterLink": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5725D2R-md.jpg",
+        "videoLink": "https://www.youtube.com/watch?v=ooZdaF2zMlM",
+        "link": "https://www.cinema-city.pl/filmy/wojownicze-zolwie-ninja-zmutowany-chaos/5725d2r",
+        "weight": -6,
+        "releaseYear": "2023",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "id": "483140",
+        "filmId": "5474d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:00:00",
+        "attributeIds": [
+          "2d",
+          "6-plus",
+          "adventure",
+          "animation",
+          "comedy",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na",
+          "other_6-plus"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483140&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483140&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483140",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "483252",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483252&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483252&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483252",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "482938",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482938&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482938&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482938",
+        "soldOut": false,
+        "auditorium": "Sala 4",
+        "auditoriumTinyName": "4 HFR"
+      },
+      {
+        "id": "483329",
+        "filmId": "5323d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:15:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483329&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483329&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483329",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "483030",
+        "filmId": "5887d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:15:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483030&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483030&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483030",
+        "soldOut": false,
+        "auditorium": "Sala 9",
+        "auditoriumTinyName": "9"
+      },
+      {
+        "id": "483104",
+        "filmId": "5914o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:20:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483104&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483104&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483104",
+        "soldOut": false,
+        "auditorium": "Sala 12",
+        "auditoriumTinyName": "12"
+      },
+      {
+        "id": "482976",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:30:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482976&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482976&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482976",
+        "soldOut": false,
+        "auditorium": "Sala 6",
+        "auditoriumTinyName": "6 HFR"
+      },
+      {
+        "id": "483216",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T10:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483216&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483216&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483216",
+        "soldOut": false,
+        "auditorium": "Sala 15",
+        "auditoriumTinyName": "15"
+      },
+      {
+        "id": "483040",
+        "filmId": "5323d2r1",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:00:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-uk",
+          "family",
+          "original-lang-uk"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483040&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483040&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483040",
+        "soldOut": false,
+        "auditorium": "Sala 10",
+        "auditoriumTinyName": "10"
+      },
+      {
+        "id": "483181",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:00:00",
+        "attributeIds": [
+          "3d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483181&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483181&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483181",
+        "soldOut": false,
+        "auditorium": "Sala 14",
+        "auditoriumTinyName": "14HFR"
+      },
+      {
+        "id": "482895",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482895&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482895&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482895",
+        "soldOut": false,
+        "auditorium": "Sala 2",
+        "auditoriumTinyName": "2 HFR"
+      },
+      {
+        "id": "483293",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483293&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483293&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483293",
+        "soldOut": false,
+        "auditorium": "Sala 17",
+        "auditoriumTinyName": "17"
+      },
+      {
+        "id": "483069",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:20:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483069&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483069&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483069",
+        "soldOut": false,
+        "auditorium": "Sala 11",
+        "auditoriumTinyName": "11"
+      },
+      {
+        "id": "482920",
+        "filmId": "5790d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:20:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482920&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482920&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482920",
+        "soldOut": false,
+        "auditorium": "Sala 3",
+        "auditoriumTinyName": "3"
+      },
+      {
+        "id": "482870",
+        "filmId": "4923d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482870&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482870&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482870",
+        "soldOut": false,
+        "auditorium": "Sala 1",
+        "auditoriumTinyName": "1 HFR"
+      },
+      {
+        "id": "482994",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:30:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482994&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482994&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482994",
+        "soldOut": false,
+        "auditorium": "Sala 7",
+        "auditoriumTinyName": "7 HFR"
+      },
+      {
+        "id": "483105",
+        "filmId": "5914o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:40:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483105&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483105&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483105",
+        "soldOut": false,
+        "auditorium": "Sala 12",
+        "auditoriumTinyName": "12"
+      },
+      {
+        "id": "482958",
+        "filmId": "5538d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T11:50:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482958&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482958&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482958",
+        "soldOut": false,
+        "auditorium": "Sala 5",
+        "auditoriumTinyName": "5 HFR"
+      },
+      {
+        "id": "483141",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483141&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483141&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483141",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "483012",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483012&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483012&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483012",
+        "soldOut": false,
+        "auditorium": "Sala 8",
+        "auditoriumTinyName": "8 HFR"
+      },
+      {
+        "id": "483253",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:15:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483253&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483253&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483253",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "483031",
+        "filmId": "5887d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:20:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483031&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483031&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483031",
+        "soldOut": false,
+        "auditorium": "Sala 9",
+        "auditoriumTinyName": "9"
+      },
+      {
+        "id": "483330",
+        "filmId": "5323d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:30:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483330&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483330&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483330",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "483217",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:45:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483217&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483217&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483217",
+        "soldOut": false,
+        "auditorium": "Sala 15",
+        "auditoriumTinyName": "15"
+      },
+      {
+        "id": "482939",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T12:50:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482939&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482939&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482939",
+        "soldOut": false,
+        "auditorium": "Sala 4",
+        "auditoriumTinyName": "4 HFR"
+      },
+      {
+        "id": "483106",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:00:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483106&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483106&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483106",
+        "soldOut": false,
+        "auditorium": "Sala 12",
+        "auditoriumTinyName": "12"
+      },
+      {
+        "id": "483041",
+        "filmId": "5538d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:20:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483041&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483041&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483041",
+        "soldOut": false,
+        "auditorium": "Sala 10",
+        "auditoriumTinyName": "10"
+      },
+      {
+        "id": "483182",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:30:00",
+        "attributeIds": [
+          "3d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483182&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483182&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483182",
+        "soldOut": false,
+        "auditorium": "Sala 14",
+        "auditoriumTinyName": "14HFR"
+      },
+      {
+        "id": "482995",
+        "filmId": "5724s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:40:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed",
+          "thriller"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482995&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482995&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482995",
+        "soldOut": false,
+        "auditorium": "Sala 7",
+        "auditoriumTinyName": "7 HFR"
+      },
+      {
+        "id": "482921",
+        "filmId": "5887d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:40:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482921&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482921&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482921",
+        "soldOut": false,
+        "auditorium": "Sala 3",
+        "auditoriumTinyName": "3"
+      },
+      {
+        "id": "483294",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:45:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483294&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483294&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483294",
+        "soldOut": false,
+        "auditorium": "Sala 17",
+        "auditoriumTinyName": "17"
+      },
+      {
+        "id": "482896",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T13:50:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482896&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482896&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482896",
+        "soldOut": false,
+        "auditorium": "Sala 2",
+        "auditoriumTinyName": "2 HFR"
+      },
+      {
+        "id": "483070",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:00:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483070&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483070&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483070",
+        "soldOut": false,
+        "auditorium": "Sala 11",
+        "auditoriumTinyName": "11"
+      },
+      {
+        "id": "482977",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:10:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482977&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482977&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482977",
+        "soldOut": false,
+        "auditorium": "Sala 6",
+        "auditoriumTinyName": "6 HFR"
+      },
+      {
+        "id": "482959",
+        "filmId": "5538d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:20:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "animation",
+          "dubbed",
+          "dubbed-lang-pl",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482959&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482959&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482959",
+        "soldOut": false,
+        "auditorium": "Sala 5",
+        "auditoriumTinyName": "5 HFR"
+      },
+      {
+        "id": "483032",
+        "filmId": "5887d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:20:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483032&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483032&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483032",
+        "soldOut": false,
+        "auditorium": "Sala 9",
+        "auditoriumTinyName": "9"
+      },
+      {
+        "id": "483254",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483254&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483254&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483254",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "483142",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483142&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483142&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483142",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "482871",
+        "filmId": "5790d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482871&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482871&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482871",
+        "soldOut": false,
+        "auditorium": "Sala 1",
+        "auditoriumTinyName": "1 HFR"
+      },
+      {
+        "id": "483331",
+        "filmId": "5323d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:40:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483331&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483331&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483331",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "483013",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T14:50:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483013&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483013&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483013",
+        "soldOut": false,
+        "auditorium": "Sala 8",
+        "auditoriumTinyName": "8 HFR"
+      },
+      {
+        "id": "483218",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T15:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483218&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483218&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483218",
+        "soldOut": false,
+        "auditorium": "Sala 15",
+        "auditoriumTinyName": "15"
+      },
+      {
+        "id": "482940",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T15:20:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482940&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482940&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482940",
+        "soldOut": false,
+        "auditorium": "Sala 4",
+        "auditoriumTinyName": "4 HFR"
+      },
+      {
+        "id": "483042",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T15:50:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483042&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483042&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483042",
+        "soldOut": false,
+        "auditorium": "Sala 10",
+        "auditoriumTinyName": "10"
+      },
+      {
+        "id": "482902",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:00:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482902&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482902&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482902",
+        "soldOut": false,
+        "auditorium": "Sala 3",
+        "auditoriumTinyName": "3"
+      },
+      {
+        "id": "483183",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:00:00",
+        "attributeIds": [
+          "3d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483183&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483183&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483183",
+        "soldOut": false,
+        "auditorium": "Sala 14",
+        "auditoriumTinyName": "14HFR"
+      },
+      {
+        "id": "483295",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:00:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483295&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483295&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483295",
+        "soldOut": false,
+        "auditorium": "Sala 17",
+        "auditoriumTinyName": "17"
+      },
+      {
+        "id": "482877",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:30:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482877&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482877&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482877",
+        "soldOut": false,
+        "auditorium": "Sala 2",
+        "auditoriumTinyName": "2 HFR"
+      },
+      {
+        "id": "483018",
+        "filmId": "5887d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:30:00",
+        "attributeIds": [
+          "2d",
+          "adventure",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483018&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483018&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483018",
+        "soldOut": false,
+        "auditorium": "Sala 9",
+        "auditoriumTinyName": "9"
+      },
+      {
+        "id": "483107",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:40:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483107&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483107&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483107",
+        "soldOut": false,
+        "auditorium": "Sala 12",
+        "auditoriumTinyName": "12"
+      },
+      {
+        "id": "483071",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:40:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483071&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483071&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483071",
+        "soldOut": false,
+        "auditorium": "Sala 11",
+        "auditoriumTinyName": "11"
+      },
+      {
+        "id": "483255",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:45:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483255&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483255&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483255",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "482946",
+        "filmId": "5548s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:50:00",
+        "attributeIds": [
+          "12-plus",
+          "2d",
+          "adventure",
+          "first-subbed-lang-pl",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482946&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482946&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482946",
+        "soldOut": false,
+        "auditorium": "Sala 5",
+        "auditoriumTinyName": "5 HFR"
+      },
+      {
+        "id": "482852",
+        "filmId": "5708s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T16:50:00",
+        "attributeIds": [
+          "2d",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482852&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482852&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482852",
+        "soldOut": false,
+        "auditorium": "Sala 1",
+        "auditoriumTinyName": "1 HFR"
+      },
+      {
+        "id": "483332",
+        "filmId": "5323d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:00:00",
+        "attributeIds": [
+          "2d",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl",
+          "family"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483332&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483332&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483332",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "482982",
+        "filmId": "5724s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed",
+          "thriller"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482982&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482982&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482982",
+        "soldOut": false,
+        "auditorium": "Sala 7",
+        "auditoriumTinyName": "7 HFR"
+      },
+      {
+        "id": "483143",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483143&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483143&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483143",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "483000",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:30:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483000&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483000&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483000",
+        "soldOut": false,
+        "auditorium": "Sala 8",
+        "auditoriumTinyName": "8 HFR"
+      },
+      {
+        "id": "483219",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483219&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483219&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483219",
+        "soldOut": false,
+        "auditorium": "Sala 15",
+        "auditoriumTinyName": "15"
+      },
+      {
+        "id": "482964",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T17:50:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482964&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482964&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482964",
+        "soldOut": false,
+        "auditorium": "Sala 6",
+        "auditoriumTinyName": "6 HFR"
+      },
+      {
+        "id": "482926",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T18:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482926&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482926&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482926",
+        "soldOut": false,
+        "auditorium": "Sala 4",
+        "auditoriumTinyName": "4 HFR"
+      },
+      {
+        "id": "483296",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T18:15:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483296&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483296&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483296",
+        "soldOut": false,
+        "auditorium": "Sala 17",
+        "auditoriumTinyName": "17"
+      },
+      {
+        "id": "483184",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T18:30:00",
+        "attributeIds": [
+          "3d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483184&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483184&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483184",
+        "soldOut": false,
+        "auditorium": "Sala 14",
+        "auditoriumTinyName": "14HFR"
+      },
+      {
+        "id": "483019",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T18:40:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483019&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483019&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483019",
+        "soldOut": false,
+        "auditorium": "Sala 9",
+        "auditoriumTinyName": "9"
+      },
+      {
+        "id": "482903",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T18:40:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482903&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482903&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482903",
+        "soldOut": false,
+        "auditorium": "Sala 3",
+        "auditoriumTinyName": "3"
+      },
+      {
+        "id": "483256",
+        "filmId": "5725d2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "animation",
+          "bez-ograniczen",
+          "dubbed",
+          "dubbed-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483256&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483256&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483256",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "482878",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482878&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482878&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482878",
+        "soldOut": false,
+        "auditorium": "Sala 2",
+        "auditoriumTinyName": "2 HFR"
+      },
+      {
+        "id": "483072",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:20:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "dubbed",
+          "dubbed-lang-pl",
+          "fantasy",
+          "na"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483072&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483072&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483072",
+        "soldOut": false,
+        "auditorium": "Sala 11",
+        "auditoriumTinyName": "11"
+      },
+      {
+        "id": "483333",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:20:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483333&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483333&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483333",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "483043",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:30:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483043&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483043&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483043",
+        "soldOut": false,
+        "auditorium": "Sala 10",
+        "auditoriumTinyName": "10"
+      },
+      {
+        "id": "482853",
+        "filmId": "5708s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:30:00",
+        "attributeIds": [
+          "2d",
+          "family",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482853&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482853&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482853",
+        "soldOut": false,
+        "auditorium": "Sala 1",
+        "auditoriumTinyName": "1 HFR"
+      },
+      {
+        "id": "483144",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T19:30:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483144&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483144&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483144",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "483220",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "dubbed",
+          "dubbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483220&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483220&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483220",
+        "soldOut": false,
+        "auditorium": "Sala 15",
+        "auditoriumTinyName": "15"
+      },
+      {
+        "id": "482947",
+        "filmId": "5548s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:10:00",
+        "attributeIds": [
+          "12-plus",
+          "2d",
+          "adventure",
+          "first-subbed-lang-pl",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482947&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482947&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482947",
+        "soldOut": false,
+        "auditorium": "Sala 5",
+        "auditoriumTinyName": "5 HFR"
+      },
+      {
+        "id": "483001",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:10:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483001&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483001&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483001",
+        "soldOut": false,
+        "auditorium": "Sala 8",
+        "auditoriumTinyName": "8 HFR"
+      },
+      {
+        "id": "483108",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:20:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483108&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483108&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483108",
+        "soldOut": false,
+        "auditorium": "Sala 12",
+        "auditoriumTinyName": "12"
+      },
+      {
+        "id": "482983",
+        "filmId": "5724s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:20:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "adventure",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed",
+          "thriller"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482983&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482983&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482983",
+        "soldOut": false,
+        "auditorium": "Sala 7",
+        "auditoriumTinyName": "7 HFR"
+      },
+      {
+        "id": "483297",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:30:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483297&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483297&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483297",
+        "soldOut": false,
+        "auditorium": "Sala 17",
+        "auditoriumTinyName": "17"
+      },
+      {
+        "id": "482927",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T20:50:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482927&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482927&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482927",
+        "soldOut": false,
+        "auditorium": "Sala 4",
+        "auditoriumTinyName": "4 HFR"
+      },
+      {
+        "id": "483185",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:00:00",
+        "attributeIds": [
+          "3d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483185&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483185&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483185",
+        "soldOut": false,
+        "auditorium": "Sala 14",
+        "auditoriumTinyName": "14HFR"
+      },
+      {
+        "id": "483257",
+        "filmId": "5859s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:10:00",
+        "attributeIds": [
+          "15-plus",
+          "2d",
+          "first-subbed-lang-pl",
+          "horror",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483257&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483257&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483257",
+        "soldOut": false,
+        "auditorium": "Sala 16",
+        "auditoriumTinyName": "16"
+      },
+      {
+        "id": "482904",
+        "filmId": "5647s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:20:00",
+        "attributeIds": [
+          "15-plus",
+          "2d",
+          "comedy",
+          "first-subbed-lang-pl",
+          "original-lang-fr-fr",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482904&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482904&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482904",
+        "soldOut": false,
+        "auditorium": "Sala 3",
+        "auditoriumTinyName": "3"
+      },
+      {
+        "id": "482965",
+        "filmId": "5297s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:30:00",
+        "attributeIds": [
+          "2d",
+          "drama",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482965&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482965&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482965",
+        "soldOut": false,
+        "auditorium": "Sala 6",
+        "auditoriumTinyName": "6 HFR"
+      },
+      {
+        "id": "483334",
+        "filmId": "5910o2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:30:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "na",
+          "original-lang-pl"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483334&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483334&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483334",
+        "soldOut": false,
+        "auditorium": "Sala 18",
+        "auditoriumTinyName": "18"
+      },
+      {
+        "id": "482879",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T21:50:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482879&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482879&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482879",
+        "soldOut": false,
+        "auditorium": "Sala 2",
+        "auditoriumTinyName": "2 HFR"
+      },
+      {
+        "id": "483073",
+        "filmId": "5569s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T22:00:00",
+        "attributeIds": [
+          "2d",
+          "comedy",
+          "drama",
+          "fantasy",
+          "first-subbed-lang-pl",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483073&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483073&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483073",
+        "soldOut": false,
+        "auditorium": "Sala 11",
+        "auditoriumTinyName": "11"
+      },
+      {
+        "id": "483145",
+        "filmId": "5785s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T22:00:00",
+        "attributeIds": [
+          "2d",
+          "action",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "sci-fi",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=483145&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=483145&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "483145",
+        "soldOut": false,
+        "auditorium": "Sala 13",
+        "auditoriumTinyName": "13"
+      },
+      {
+        "id": "482854",
+        "filmId": "5765s2r",
+        "cinemaId": "1081",
+        "businessDay": "2023-08-05",
+        "eventDateTime": "2023-08-05T22:10:00",
+        "attributeIds": [
+          "2d",
+          "first-subbed-lang-pl",
+          "horror",
+          "na",
+          "original-lang-en-us",
+          "subbed"
+        ],
+        "bookingLink": "https://www.cinema-city.pl/booking?presentationCode=482854&cinemaId=1081&lang=pl-PL",
+        "compositeBookingLink": {
+          "type": "TITAN",
+          "bookingUrl": {
+            "url": "https://s8.cinema-city.pl/S_PL_1081",
+            "params": {
+              "lang": "pl-PL",
+              "key": "PLKinepolisPOW"
+            }
+          },
+          "obsoleteBookingUrl": "https://www.cinema-city.pl/booking?presentationCode=482854&cinemaId=1081&lang=pl-PL",
+          "blockOnlineSales": false,
+          "blockOnlineSalesUntil": null,
+          "serviceUrl": "https://www.cinema-city.pl/booking"
+        },
+        "presentationCode": "482854",
+        "soldOut": false,
+        "auditorium": "Sala 1",
+        "auditoriumTinyName": "1 HFR"
+      }
+    ]
+  }
+}

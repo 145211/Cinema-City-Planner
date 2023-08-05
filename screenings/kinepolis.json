@@ -1,370 +1,4 @@
 {
-    "2023-08-04": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "21:20"
-                    ],
-                    "end": [
-                        "22:48"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "11:10",
-                        "16:30",
-                        "17:30",
-                        "18:10",
-                        "19:10",
-                        "20:10",
-                        "20:50",
-                        "21:50",
-                        "22:00"
-                    ],
-                    "end": [
-                        "13:15",
-                        "18:35",
-                        "19:35",
-                        "20:15",
-                        "21:15",
-                        "22:15",
-                        "22:55",
-                        "23:55",
-                        "24:05"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:20",
-                        "14:00",
-                        "16:00",
-                        "16:40",
-                        "18:40",
-                        "19:20"
-                    ],
-                    "end": [
-                        "13:25",
-                        "16:05",
-                        "18:05",
-                        "18:45",
-                        "20:45",
-                        "21:25"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "16:30"
-                    ],
-                    "end": [
-                        "18:03"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka. Lisova pisnya",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB UK)",
-                    "start": [
-                        "11:00"
-                    ],
-                    "end": [
-                        "12:39"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:15",
-                        "10:50",
-                        "12:30",
-                        "14:40",
-                        "17:00"
-                    ],
-                    "end": [
-                        "11:54",
-                        "12:29",
-                        "14:09",
-                        "16:19",
-                        "18:39"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Meg 2: Głębia",
-            "duration": 116,
-            "screenings": [
-                {
-                    "type": "3D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "11:00",
-                        "13:30",
-                        "18:30"
-                    ],
-                    "end": [
-                        "12:56",
-                        "15:26",
-                        "20:26"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:00",
-                        "14:30",
-                        "17:30",
-                        "20:00"
-                    ],
-                    "end": [
-                        "13:56",
-                        "16:26",
-                        "19:26",
-                        "21:56"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "15:00",
-                        "17:00",
-                        "19:30",
-                        "22:00"
-                    ],
-                    "end": [
-                        "16:56",
-                        "18:56",
-                        "21:26",
-                        "23:56"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "16:00",
-                        "21:00"
-                    ],
-                    "end": [
-                        "17:56",
-                        "22:56"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Między nami żywiołami",
-            "duration": 110,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "13:20"
-                    ],
-                    "end": [
-                        "15:10"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mission: Impossible - Dead Reckoning Part One",
-            "duration": 163,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:00",
-                        "20:20"
-                    ],
-                    "end": [
-                        "19:43",
-                        "23:03"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "16:50"
-                    ],
-                    "end": [
-                        "18:54"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "19:30"
-                    ],
-                    "end": [
-                        "21:34"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Naznaczony: Czerwone drzwi",
-            "duration": 107,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:10"
-                    ],
-                    "end": [
-                        "23:57"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "13:00",
-                        "15:50",
-                        "16:40",
-                        "17:50",
-                        "18:40",
-                        "19:30",
-                        "20:20",
-                        "21:30"
-                    ],
-                    "end": [
-                        "16:00",
-                        "18:50",
-                        "19:40",
-                        "20:50",
-                        "21:40",
-                        "22:30",
-                        "23:20",
-                        "24:30"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "21:10"
-                    ],
-                    "end": [
-                        "22:39"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Porady na zdrady 2",
-            "duration": 98,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "",
-                    "start": [
-                        "13:45",
-                        "16:00",
-                        "18:15",
-                        "19:20",
-                        "20:30",
-                        "21:30"
-                    ],
-                    "end": [
-                        "15:23",
-                        "17:38",
-                        "19:53",
-                        "20:58",
-                        "22:08",
-                        "23:08"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "10:30",
-                        "12:15",
-                        "12:45",
-                        "14:30",
-                        "16:45",
-                        "19:00"
-                    ],
-                    "end": [
-                        "11:40",
-                        "12:10",
-                        "13:55",
-                        "14:25",
-                        "16:10",
-                        "18:25",
-                        "20:40"
-                    ]
-                }
-            ]
-        }
-    ],
     "2023-08-05": [
         {
             "title": "Alibi.com 2",
@@ -449,12 +83,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -748,7 +400,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "11:30",
                         "13:45",
@@ -915,12 +567,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -1214,7 +884,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "11:30",
                         "13:45",
@@ -1367,12 +1037,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -1630,7 +1318,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "13:45",
                         "16:00",
@@ -1765,12 +1453,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -2028,7 +1734,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "13:45",
                         "16:00",
@@ -2163,12 +1869,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -2426,7 +2150,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "13:45",
                         "16:00",
@@ -2561,12 +2285,30 @@
             ]
         },
         {
+            "title": "Indiana Jones i artefakt przeznaczenia",
+            "duration": 154,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "16:50",
+                        "20:10"
+                    ],
+                    "end": [
+                        "19:24",
+                        "22:44"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Kicia Kocia na pikniku",
             "duration": 45,
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "10:20",
                         "11:40"
@@ -2824,7 +2566,7 @@
             "screenings": [
                 {
                     "type": "2D",
-                    "language": "",
+                    "language": "(BEZ NAPISÓW)",
                     "start": [
                         "13:45",
                         "16:00",
@@ -3024,5 +2766,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "2023-08-25": []
 }

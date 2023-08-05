@@ -84,7 +84,9 @@ def attributer(attrs):
 
     mov_lang = ''
 
-    if 'dubbed' in attrs:
+    if 'original-lang-pl' in attrs:
+        mov_lang += '(BEZ NAPISÓW)'
+    elif 'dubbed' in attrs:
         mov_lang += '(DUB '
         mov_lang += next((item for item in attrs if item.startswith('dubbed-')), 'PL').split('-')[-1].upper() + ')'
     elif 'subbed' in attrs:
