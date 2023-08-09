@@ -62,6 +62,15 @@ def make_plot_plotly(movies, chosen=None):
     fig.update_layout(paper_bgcolor='#1f1f1f')
     fig.update_layout(showlegend=False)
 
+    if len(movies) == 0:
+        fig.add_annotation(
+            xref="paper", yref="paper",
+            x=0.5, y=0.5,
+            text="No screenings<br>for selected day",
+            font=dict(size=50, color='#d57031'),
+            showarrow=False
+        )
+
     return fig, all_titles
 
 

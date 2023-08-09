@@ -34,13 +34,17 @@ def jason():
     req_date = request.args.get('date')
     req_chosen = request.args.get('chosen')
 
-    data = json.load(open(f"{static_folder}screenings/{req_cinema}.json", encoding='utf-8'))[req_date]
+    try:
+        data = json.load(open(f"{static_folder}screenings/{req_cinema}.json", encoding='utf-8'))[req_date]
+    except:
+        print('No screenings for selected day')
+        data = []
 
     fig, titles = make_plot_plotly(data, req_chosen)
     fig.update_layout(height=800)
     div = fig.to_html(full_html=False)
 
-    return render_template("grabberPlotter.html", data=data, plot_div=div, titles=titles)
+    return render_template("grabberPlotter.html", plot_div=div, titles=titles)
 
 
 if __name__ == "__main__":

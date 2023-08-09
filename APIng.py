@@ -6,8 +6,6 @@ import json
 def scrapping():
     cinemas = json.load(open("cinemas.json", encoding='utf-8'))
 
-    testing = ['kinepolis', 'korona', 'mokotow', 'poznanplaza', 'wroclavia']
-
     dates = []
 
     for days in range(21):
