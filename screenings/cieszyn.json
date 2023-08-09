@@ -1,712 +1,4 @@
 {
-    "2023-08-06": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "12:05"
-                    ],
-                    "end": [
-                        "13:33"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "13:40",
-                        "16:20"
-                    ],
-                    "end": [
-                        "15:45",
-                        "18:25"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:30",
-                        "19:00"
-                    ],
-                    "end": [
-                        "19:35",
-                        "21:05"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia na pikniku",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "10:00"
-                    ],
-                    "end": [
-                        "10:45"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:40"
-                    ],
-                    "end": [
-                        "12:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "15:20"
-                    ],
-                    "end": [
-                        "11:39",
-                        "16:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Meg 2: Głębia",
-            "duration": 116,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:10",
-                        "17:10"
-                    ],
-                    "end": [
-                        "14:06",
-                        "19:06"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:36"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "19:40"
-                    ],
-                    "end": [
-                        "21:36"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:11"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:40"
-                    ],
-                    "end": [
-                        "14:44"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "18:20",
-                        "21:40"
-                    ],
-                    "end": [
-                        "21:20",
-                        "24:40"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:20"
-                    ],
-                    "end": [
-                        "23:49"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Porady na zdrady 2",
-            "duration": 98,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "20:10",
-                        "22:00"
-                    ],
-                    "end": [
-                        "21:48",
-                        "23:38"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "11:20",
-                        "14:00",
-                        "16:10"
-                    ],
-                    "end": [
-                        "11:40",
-                        "13:00",
-                        "15:40",
-                        "17:50"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-08-07": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "12:05"
-                    ],
-                    "end": [
-                        "13:33"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "13:40",
-                        "16:20"
-                    ],
-                    "end": [
-                        "15:45",
-                        "18:25"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:30",
-                        "19:00"
-                    ],
-                    "end": [
-                        "19:35",
-                        "21:05"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia na pikniku",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "10:00"
-                    ],
-                    "end": [
-                        "10:45"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:40"
-                    ],
-                    "end": [
-                        "12:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "15:20"
-                    ],
-                    "end": [
-                        "11:39",
-                        "16:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Meg 2: Głębia",
-            "duration": 116,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:10",
-                        "17:10"
-                    ],
-                    "end": [
-                        "14:06",
-                        "19:06"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:36"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "19:40"
-                    ],
-                    "end": [
-                        "21:36"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:11"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:40"
-                    ],
-                    "end": [
-                        "14:44"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "18:20",
-                        "21:40"
-                    ],
-                    "end": [
-                        "21:20",
-                        "24:40"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:20"
-                    ],
-                    "end": [
-                        "23:49"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Porady na zdrady 2",
-            "duration": 98,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "20:10",
-                        "22:00"
-                    ],
-                    "end": [
-                        "21:48",
-                        "23:38"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "11:20",
-                        "14:00",
-                        "16:10"
-                    ],
-                    "end": [
-                        "11:40",
-                        "13:00",
-                        "15:40",
-                        "17:50"
-                    ]
-                }
-            ]
-        }
-    ],
-    "2023-08-08": [
-        {
-            "title": "Alibi.com 2",
-            "duration": 88,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "FR (NAP PL)",
-                    "start": [
-                        "12:05"
-                    ],
-                    "end": [
-                        "13:33"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Barbie",
-            "duration": 125,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "13:40",
-                        "16:20"
-                    ],
-                    "end": [
-                        "15:45",
-                        "18:25"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "17:30",
-                        "19:00"
-                    ],
-                    "end": [
-                        "19:35",
-                        "21:05"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Kicia Kocia na pikniku",
-            "duration": 45,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "10:00"
-                    ],
-                    "end": [
-                        "10:45"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Lassie. Nowe przygody",
-            "duration": 93,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:40"
-                    ],
-                    "end": [
-                        "12:13"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Mavka i strażnicy lasu",
-            "duration": 99,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "15:20"
-                    ],
-                    "end": [
-                        "11:39",
-                        "16:59"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Meg 2: Głębia",
-            "duration": 116,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:10",
-                        "17:10"
-                    ],
-                    "end": [
-                        "14:06",
-                        "19:06"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "14:40"
-                    ],
-                    "end": [
-                        "16:36"
-                    ]
-                },
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "19:40"
-                    ],
-                    "end": [
-                        "21:36"
-                    ]
-                },
-                {
-                    "type": "3D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:15"
-                    ],
-                    "end": [
-                        "24:11"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Nawiedzony dwór",
-            "duration": 124,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "12:40"
-                    ],
-                    "end": [
-                        "14:44"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oppenheimer",
-            "duration": 180,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "18:20",
-                        "21:40"
-                    ],
-                    "end": [
-                        "21:20",
-                        "24:40"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pajęczyna",
-            "duration": 89,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "EN (NAP PL)",
-                    "start": [
-                        "22:20"
-                    ],
-                    "end": [
-                        "23:49"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Porady na zdrady 2",
-            "duration": 98,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(BEZ NAPISÓW)",
-                    "start": [
-                        "20:10",
-                        "22:00"
-                    ],
-                    "end": [
-                        "21:48",
-                        "23:38"
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
-            "duration": 100,
-            "screenings": [
-                {
-                    "type": "2D",
-                    "language": "(DUB PL)",
-                    "start": [
-                        "10:00",
-                        "11:20",
-                        "14:00",
-                        "16:10"
-                    ],
-                    "end": [
-                        "11:40",
-                        "13:00",
-                        "15:40",
-                        "17:50"
-                    ]
-                }
-            ]
-        }
-    ],
     "2023-08-09": [
         {
             "title": "Alibi.com 2",
@@ -1181,6 +473,114 @@
     ],
     "2023-08-11": [
         {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:10"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:10"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Maraton Horrorów 2D",
             "duration": 327,
             "screenings": [
@@ -1195,14 +595,1358 @@
                     ]
                 }
             ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "17:00",
+                        "21:40"
+                    ],
+                    "end": [
+                        "20:00",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "12:40",
+                        "14:50"
+                    ],
+                    "end": [
+                        "12:10",
+                        "14:20",
+                        "16:30"
+                    ]
+                }
+            ]
         }
     ],
-    "2023-08-12": [],
-    "2023-08-13": [],
-    "2023-08-14": [],
-    "2023-08-15": [],
-    "2023-08-16": [],
-    "2023-08-17": [],
+    "2023-08-12": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-13": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-14": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-15": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-16": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2023-08-17": [
+        {
+            "title": "Barbie",
+            "duration": 125,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "13:40",
+                        "16:20"
+                    ],
+                    "end": [
+                        "15:45",
+                        "18:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:00"
+                    ],
+                    "end": [
+                        "21:05"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Demeter: Przebudzenie zła",
+            "duration": 120,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "19:40",
+                        "22:00"
+                    ],
+                    "end": [
+                        "21:40",
+                        "24:00"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gran Turismo",
+            "duration": 135,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "12:15",
+                        "15:10"
+                    ],
+                    "end": [
+                        "14:30",
+                        "17:25"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:00",
+                        "21:00"
+                    ],
+                    "end": [
+                        "20:15",
+                        "23:15"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Kicia Kocia na pikniku",
+            "duration": 45,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "10:00"
+                    ],
+                    "end": [
+                        "10:45"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lassie. Nowe przygody",
+            "duration": 93,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:10"
+                    ],
+                    "end": [
+                        "11:43"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mavka i strażnicy lasu",
+            "duration": 99,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "10:30",
+                        "11:30",
+                        "15:00"
+                    ],
+                    "end": [
+                        "12:09",
+                        "13:09",
+                        "16:39"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meg 2: Głębia",
+            "duration": 116,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "17:10"
+                    ],
+                    "end": [
+                        "19:06"
+                    ]
+                },
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "22:10"
+                    ],
+                    "end": [
+                        "24:06"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oppenheimer",
+            "duration": 180,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "EN (NAP PL)",
+                    "start": [
+                        "18:20",
+                        "21:40"
+                    ],
+                    "end": [
+                        "21:20",
+                        "24:40"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Porady na zdrady 2",
+            "duration": 98,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(BEZ NAPISÓW)",
+                    "start": [
+                        "12:50"
+                    ],
+                    "end": [
+                        "14:28"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Wojownicze Żółwie Ninja: zmutowany chaos",
+            "duration": 100,
+            "screenings": [
+                {
+                    "type": "2D",
+                    "language": "(DUB PL)",
+                    "start": [
+                        "11:50",
+                        "14:00",
+                        "16:10"
+                    ],
+                    "end": [
+                        "13:30",
+                        "15:40",
+                        "17:50"
+                    ]
+                }
+            ]
+        }
+    ],
     "2023-08-18": [],
     "2023-08-19": [],
     "2023-08-20": [],
@@ -1228,5 +1972,8 @@
     "2023-08-23": [],
     "2023-08-24": [],
     "2023-08-25": [],
-    "2023-08-26": []
+    "2023-08-26": [],
+    "2023-08-27": [],
+    "2023-08-28": [],
+    "2023-08-29": []
 }
